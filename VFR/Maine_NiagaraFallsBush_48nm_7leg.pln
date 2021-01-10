@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>9G3 to 61NY</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>9G3</DepartureID>
+        <DepartureLLA>N43° 1' 23.55",W78° 28' 39.91",+000835.00</DepartureLLA>
+        <DestinationID>61NY</DestinationID>
+        <DestinationLLA>N43° 10' 9.52",W78° 46' 56.37",+000621.00</DestinationLLA>
+        <Descr>9G3, 61NY</Descr>
+        <DepartureName>Akron</DepartureName>
+        <DestinationName>Bassett Field</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="9G3">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 1' 16.00",W78° 28' 57.49",+000835.00</WorldPosition>
+            <RunwayNumberFP>25</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>9G3</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="0NY4">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 57' 34.05",W78° 32' 51.30",+002376.97</WorldPosition>
+            <ICAO>
+                <ICAOIdent>0NY4</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KBUF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 56' 25.78",W78° 43' 50.24",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KBUF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CNJ3">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 55' 1.73",W78° 57' 27.98",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CNJ3</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CNF9">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 59' 58.16",W79° 3' 43.24",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CNF9</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NGFLS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 4' 58.44",W79° 4' 17.22",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="NY24">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 7' 40.62",W78° 58' 12.20",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NY24</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="61NY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 10' 9.52",W78° 46' 56.37",+000621.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>61NY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

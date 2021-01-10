@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>07B to ME22</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>07B</DepartureID>
+        <DepartureLLA>N44° 26' 39.93",W68° 34' 0.27",+000354.00</DepartureLLA>
+        <DestinationID>ME22</DestinationID>
+        <DestinationLLA>N45° 40' 16.36",W69° 48' 26.13",+001070.00</DestinationLLA>
+        <Descr>07B, ME22</Descr>
+        <DepartureName>Blue Hill</DepartureName>
+        <DestinationName>Avery Field</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="07B">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 26' 52.96",W68° 34' 10.87",+000354.00</WorldPosition>
+            <RunwayNumberFP>35</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>07B</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="72ME">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 38' 5.38",W68° 37' 57.14",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>72ME</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="0B2">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 45' 49.77",W68° 46' 4.24",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>0B2</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="14ME">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 47' 28.41",W69° 4' 16.59",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>14ME</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PG1">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 52' 13.25",W68° 58' 29.23",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PG1</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="2ME3">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 2' 33.59",W68° 59' 27.01",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>2ME3</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ME32">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 5' 21.08",W69° 15' 38.62",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ME32</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="44B">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 10' 38.76",W69° 14' 42.75",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>44B</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ME79">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 18' 23.25",W69° 20' 54.20",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ME79</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="3B1">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 27' 46.46",W69° 33' 6.49",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>3B1</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ME22">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 40' 16.36",W69° 48' 26.13",+001070.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ME22</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

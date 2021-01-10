@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>MPEJ to MPPS</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>MPEJ</DepartureID>
+        <DepartureLLA>N9° 22' 21.13",W79° 52' 1.05",+000027.00</DepartureLLA>
+        <DestinationID>MPPS</DestinationID>
+        <DestinationLLA>N9° 8' 29.87",W79° 14' 31.79",+000174.00</DestinationLLA>
+        <Descr>MPEJ, MPPS</Descr>
+        <DepartureName>Enrique Adolfo Jimenez</DepartureName>
+        <DestinationName>La Joya Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="MPEJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N9° 21' 38.21",W79° 52' 2.31",+000027.00</WorldPosition>
+            <RunwayNumberFP>18</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>MPEJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MPPA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N8° 54' 53.28",W79° 35' 58.59",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MPPA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MPPS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N9° 8' 29.87",W79° 14' 31.79",+000174.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MPPS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,128 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>0U2 to A05</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>2000</CruisingAlt>
+        <DepartureID>0U2</DepartureID>
+        <DepartureLLA>N43° 48' 24.50",W113° 50' 13.52",+007880.00</DepartureLLA>
+        <DestinationID>A05</DestinationID>
+        <DestinationLLA>N45° 31' 7.51",W115° 30' 55.54",+005148.00</DestinationLLA>
+        <Descr>0U2, A05</Descr>
+        <DepartureName>Copper Basin</DepartureName>
+        <DestinationName>Dixie USFS</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="0U2">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 48' 7.21",W113° 49' 53.53",+007880.00</WorldPosition>
+            <RunwayNumberFP>13</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>0U2</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 49' 21.50",W113° 52' 37.75",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 50' 43.52",W113° 53' 37.07",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 53' 6.09",W113° 56' 0.44",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 54' 6.67",W114° 2' 6.29",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP5">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 54' 3.10",W114° 4' 59.32",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP6">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 56' 18.42",W114° 5' 53.70",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="ID56">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 58' 56.42",W114° 2' 37.74",+002000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ID56</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP7">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 15' 32.29",W114° 0' 24.94",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KLLJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 31' 24.97",W114° 13' 4.42",+002000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KLLJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP8">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 36' 7.93",W114° 23' 19.33",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KCHB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 39' 20.04",W114° 38' 38.31",+002000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KCHB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ID74">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 32' 16.57",W115° 22' 5.20",+002000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ID74</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="0U0">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 38' 32.11",W115° 32' 0.57",+002000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>0U0</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP9">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 47' 8.64",W115° 35' 39.42",+002000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="3U2">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 54' 42.19",W115° 29' 8.31",+002000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>3U2</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="U60">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 7' 57.69",W115° 19' 14.91",+002000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>U60</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KCHL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 18' 45.82",W115° 1' 32.40",+002000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KCHL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="A05">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 31' 7.51",W115° 30' 55.54",+005148.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>A05</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

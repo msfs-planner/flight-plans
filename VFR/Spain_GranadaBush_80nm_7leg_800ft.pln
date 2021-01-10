@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LEPN to LEAN</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>LEPN</DepartureID>
+        <DepartureLLA>N37° 17' 43.74",W3° 42' 50.36",+002404.00</DepartureLLA>
+        <DestinationID>LEAN</DestinationID>
+        <DestinationLLA>N37° 6' 1.34",W4° 33' 42.05",+001417.00</DestinationLLA>
+        <Descr>LEPN, LEAN</Descr>
+        <DepartureName>Aeroveleta Ulm</DepartureName>
+        <DestinationName>Aeródromo De Antequera</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LEPN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 17' 41.11",W3° 42' 45.36",+002404.00</WorldPosition>
+            <RunwayNumberFP>12</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>LEPN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 13' 41.31",W3° 38' 22.92",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 11' 14.15",W3° 38' 1.90",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 8' 19.69",W3° 38' 7.77",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="ARMYB">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 7' 51.73",W3° 38' 8.70",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 6' 51.12",W3° 38' 11.79",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP5">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 6' 32.39",W3° 39' 47.58",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP6">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 5' 45.08",W3° 41' 28.93",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP7">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 5' 56.41",W3° 44' 49.77",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LEJE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 5' 23.70",W3° 47' 11.98",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LEJE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP8">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 4' 54.30",W3° 49' 27.86",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LE84">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 55' 50.64",W3° 50' 7.44",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LE84</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP9">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 55' 47.25",W3° 51' 2.72",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP10">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 58' 51.69",W3° 53' 17.75",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP11">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 58' 19.12",W3° 54' 28.82",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP12">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 58' 20.59",W3° 56' 16.35",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP13">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 0' 51.39",W4° 4' 10.96",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LEZF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 59' 48.48",W4° 6' 13.46",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LEZF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP14">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 58' 58.12",W4° 7' 55.40",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP15">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 0' 26.96",W4° 12' 51.72",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP16">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 3' 35.90",W4° 14' 21.02",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP17">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 8' 50.35",W4° 13' 48.89",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LEWH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 8' 16.16",W4° 16' 10.72",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LEWH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LEVZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 3' 48.91",W4° 19' 48.81",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LEVZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP18">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 3' 14.69",W4° 23' 35.66",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP19">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 5' 12.05",W4° 28' 18.69",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LEAN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 6' 1.34",W4° 33' 42.05",+001417.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LEAN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

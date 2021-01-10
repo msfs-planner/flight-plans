@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LISB to LFTY</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>LISB</DepartureID>
+        <DepartureLLA>N45° 7' 23.15",E7° 31' 12.70",+001086.00</DepartureLLA>
+        <DestinationID>LFTY</DestinationID>
+        <DestinationLLA>N45° 27' 1.97",E6° 52' 58.23",+007937.00</DestinationLLA>
+        <Descr>LISB, LFTY</Descr>
+        <DepartureName>Campo Di Volo Prealpi-Musinè</DepartureName>
+        <DestinationName>Vers Le Col Du Palet Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LISB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 7' 29.20",E7° 31' 18.01",+001086.00</WorldPosition>
+            <RunwayNumberFP>3</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>LISB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LIVE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 6' 45.20",E7° 17' 20.55",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LIVE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LFKD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 15' 14.04",E6° 48' 4.50",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFKD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 14' 39.10",E6° 44' 7.75",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 15' 58.71",E6° 42' 52.98",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 16' 50.89",E6° 40' 53.09",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 17' 15.24",E6° 38' 9.32",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LFVL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 16' 54.20",E6° 34' 8.94",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFVL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LFTU">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 11' 23.01",E6° 15' 9.25",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFTU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LFKR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 22' 36.48",E6° 16' 36.78",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFKR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PDCHE">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N45° 28' 9.41",E6° 29' 6.12",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LFLJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 23' 44.28",E6° 37' 58.65",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFLJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LFTY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 27' 1.97",E6° 52' 58.23",+007937.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFTY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

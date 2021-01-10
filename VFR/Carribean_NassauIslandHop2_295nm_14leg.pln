@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>MYAK to MYGF</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>MYAK</DepartureID>
+        <DepartureLLA>N24° 9' 26.55",W77° 34' 56.74",+000018.00</DepartureLLA>
+        <DestinationID>MYGF</DestinationID>
+        <DestinationLLA>N26° 33' 31.34",W78° 41' 44.00",+000007.00</DestinationLLA>
+        <Descr>MYAK, MYGF</Descr>
+        <DepartureName>Congo Town</DepartureName>
+        <DestinationName>Grand Bahama Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="MYAK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N24° 9' 31.67",W77° 35' 23.88",+000018.00</WorldPosition>
+            <RunwayNumberFP>28</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>MYAK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MYAB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N24° 17' 15.67",W77° 41' 4.18",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MYAB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MYAF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N24° 41' 52.70",W77° 47' 44.55",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MYAF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MYAN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 3' 15.58",W78° 3' 0.12",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MYAN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MYX4">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 24' 6.76",W77° 47' 19.22",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MYX4</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MYBG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 44' 18.11",W77° 50' 24.81",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MYBG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MYAS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N26° 0' 17.15",W77° 23' 43.72",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MYAS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MYAO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N26° 19' 4.10",W77° 33' 42.34",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MYAO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MYAM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N26° 30' 36.50",W77° 5' 6.41",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MYAM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MYXI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N26° 38' 28.50",W77° 3' 59.28",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MYXI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MYAT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N26° 44' 43.36",W77° 23' 28.67",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MYAT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MYAX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N26° 56' 57.51",W77° 32' 31.28",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MYAX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MYXZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N26° 37' 52.03",W77° 55' 14.99",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MYXZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MYGM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N26° 37' 54.73",W78° 21' 34.41",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MYGM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MYGF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N26° 33' 31.34",W78° 41' 44.00",+000007.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MYGF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

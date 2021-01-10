@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>PASL to PAGX</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>PASL</DepartureID>
+        <DepartureLLA>N61° 42' 15.80",W157° 10' 4.08",+000191.00</DepartureLLA>
+        <DestinationID>PAGX</DestinationID>
+        <DestinationLLA>N62° 53' 31.67",W160° 3' 58.62",+000118.00</DestinationLLA>
+        <Descr>PASL, PAGX</Descr>
+        <DepartureName>Sleetmute</DepartureName>
+        <DestinationName>Grayling</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="PASL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 42' 1.87",W157° 9' 56.89",+000191.00</WorldPosition>
+            <RunwayNumberFP>14</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>PASL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RDV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 47' 16.59",W157° 20' 58.98",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RDV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PFCR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N62° 1' 56.33",W158° 14' 8.58",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PFCR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CJX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 52' 4.07",W158° 8' 6.09",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CJX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="4AK8">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 32' 10.74",W158° 44' 14.52",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>4AK8</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PACH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 34' 44.56",W159° 12' 56.24",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PACH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PANI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 34' 53.75",W159° 32' 35.07",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PANI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PALG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 32' 9.52",W160° 20' 44.15",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PALG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PAHC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N62° 11' 17.68",W159° 46' 30.31",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAHC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="K40">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N62° 38' 50.17",W160° 11' 24.23",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>K40</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PAGX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N62° 53' 31.67",W160° 3' 58.62",+000118.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAGX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

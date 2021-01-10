@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>JIQ to ZHYC</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>JIQ</DepartureID>
+        <DepartureLLA>N29° 31' 27.35",E108° 50' 13.47",+002108.00</DepartureLLA>
+        <DestinationID>ZHYC</DestinationID>
+        <DestinationLLA>N30° 33' 23.25",E111° 28' 48.29",+000648.00</DestinationLLA>
+        <Descr>JIQ, ZHYC</Descr>
+        <DepartureName>Qianjiang Wulingshan Airport</DepartureName>
+        <DestinationName>Yichang Sanxia Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="JIQ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N29° 30' 53.05",E108° 49' 54.87",+002108.00</WorldPosition>
+            <RunwayNumberFP>21</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>JIQ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ZGJHW">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N29° 19' 10.67",E110° 25' 41.68",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="ZHYC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N30° 33' 23.25",E111° 28' 48.29",+000648.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ZHYC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

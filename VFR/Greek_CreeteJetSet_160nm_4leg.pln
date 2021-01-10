@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LGSA to LGKP</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>LGSA</DepartureID>
+        <DepartureLLA>N35° 32' 12.44",E24° 8' 3.52",+000459.00</DepartureLLA>
+        <DestinationID>LGKP</DestinationID>
+        <DestinationLLA>N35° 25' 13.23",E27° 8' 44.62",+000049.00</DestinationLLA>
+        <Descr>LGSA, LGKP</Descr>
+        <DepartureName>Ioannis Daskalogiannis</DepartureName>
+        <DestinationName>Karpathos</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LGSA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 31' 49.56",E24° 9' 2.50",+000459.00</WorldPosition>
+            <RunwayNumberFP>11</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>LGSA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LG54">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 3' 48.98",E24° 46' 2.36",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LG54</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LGTL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 11' 31.23",E25° 19' 37.06",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LGTL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LGST">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 12' 58.15",E26° 6' 4.34",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LGST</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LGKP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 25' 13.23",E27° 8' 44.62",+000049.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LGKP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>VNTR to VNSB</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>VNTR</DepartureID>
+        <DepartureLLA>N27° 19' 11.46",E87° 11' 30.33",+001316.00</DepartureLLA>
+        <DestinationID>VNSB</DestinationID>
+        <DestinationLLA>N27° 48' 41.75",E86° 42' 43.06",+012294.00</DestinationLLA>
+        <Descr>VNTR, VNSB</Descr>
+        <DepartureName>Tumlingtar</DepartureName>
+        <DestinationName>Syangboche Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="VNTR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N27° 18' 54.00",E87° 11' 39.58",+001316.00</WorldPosition>
+            <RunwayNumberFP>16</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>VNTR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VNBJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N27° 8' 49.87",E87° 3' 4.19",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VNBJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VNKD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N27° 10' 52.57",E86° 46' 20.12",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VNKD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VNLD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N27° 15' 9.59",E86° 40' 20.92",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VNLD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VNRT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N27° 18' 9.39",E86° 33' 3.80",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VNRT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VNKL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N27° 24' 38.01",E86° 38' 47.81",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VNKL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VNPL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N27° 31' 4.50",E86° 35' 6.38",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VNPL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VNLK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N27° 41' 13.44",E86° 43' 52.35",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VNLK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VNSB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N27° 48' 41.75",E86° 42' 43.06",+012294.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VNSB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

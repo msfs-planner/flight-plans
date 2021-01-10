@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>SKCA to MPVR</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>SKCA</DepartureID>
+        <DepartureLLA>N8° 38' 7.91",W77° 20' 52.77",+000043.00</DepartureLLA>
+        <DestinationID>MPVR</DestinationID>
+        <DestinationLLA>N9° 33' 33.45",W78° 56' 47.74",+000010.00</DestinationLLA>
+        <Descr>SKCA, MPVR</Descr>
+        <DepartureName>Capurganá Airport</DepartureName>
+        <DestinationName>El Porvenir</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="SKCA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N8° 37' 56.87",W77° 21' 0.30",+000043.00</WorldPosition>
+            <RunwayNumberFP>22</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>SKCA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MPOA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N8° 40' 7.98",W77° 25' 2.55",+001545.52</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MPOA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MPMA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N8° 54' 7.48",W77° 41' 34.25",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MPMA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MPMN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N9° 3' 0.87",W77° 48' 35.17",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MPMN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MPAC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N9° 11' 18.28",W77° 59' 38.63",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MPAC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MPPL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N9° 18' 24.94",W78° 14' 6.96",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MPPL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TJC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N9° 25' 6.79",W78° 29' 22.45",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>TJC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MPRS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N9° 26' 1.74",W78° 49' 55.37",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MPRS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MPVR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N9° 33' 33.45",W78° 56' 47.74",+000010.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MPVR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

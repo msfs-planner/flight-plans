@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>2AK2 to PAFA</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>2AK2</DepartureID>
+        <DepartureLLA>N64° 27' 22.92",W147° 34' 21.31",+000660.00</DepartureLLA>
+        <DestinationID>PAFA</DestinationID>
+        <DestinationLLA>N64° 48' 50.05",W147° 51' 19.47",+000432.00</DestinationLLA>
+        <Descr>2AK2, PAFA</Descr>
+        <DepartureName>Clear Creek</DepartureName>
+        <DestinationName>Fairbanks Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="2AK2">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N64° 27' 2.13",W147° 33' 52.14",+000660.00</WorldPosition>
+            <RunwayNumberFP>13</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>2AK2</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="2AK1">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N64° 21' 49.52",W147° 21' 54.40",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>2AK1</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="0AK0">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N64° 23' 31.52",W146° 51' 42.15",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>0AK0</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="AK41">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N64° 32' 38.62",W146° 50' 44.26",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>AK41</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="5AK3">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N64° 46' 23.72",W147° 20' 2.62",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>5AK3</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="31AK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N64° 50' 4.60",W147° 26' 4.45",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>31AK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="32AK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N64° 54' 34.94",W147° 54' 27.55",+002380.21</WorldPosition>
+            <ICAO>
+                <ICAOIdent>32AK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PAFA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N64° 48' 50.05",W147° 51' 19.47",+000432.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAFA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

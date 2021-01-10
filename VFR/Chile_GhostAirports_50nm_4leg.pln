@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>SCDQ to SCCU</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>SCDQ</DepartureID>
+        <DepartureLLA>S37° 31' 48.37",W71° 43' 13.60",+001869.00</DepartureLLA>
+        <DestinationID>SCCU</DestinationID>
+        <DestinationLLA>S38° 9' 29.34",W71° 25' 28.12",+002430.00</DestinationLLA>
+        <Descr>SCDQ, SCCU</Descr>
+        <DepartureName>San Lorenzo Airport</DepartureName>
+        <DestinationName>Lolco Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="SCDQ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S37° 31' 35.10",W71° 43' 25.76",+001869.00</WorldPosition>
+            <RunwayNumberFP>32</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>SCDQ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCTA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S37° 44' 37.66",W71° 42' 36.60",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCTA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCMN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S37° 52' 13.52",W71° 38' 37.54",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCMN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SAQF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S38° 3' 5.71",W71° 17' 31.69",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SAQF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCCU">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S38° 9' 29.34",W71° 25' 28.12",+002430.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCCU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

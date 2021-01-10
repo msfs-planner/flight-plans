@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>MHUT to GJA</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>MHUT</DepartureID>
+        <DepartureLLA>N16° 6' 54.49",W86° 52' 30.36",+000010.00</DepartureLLA>
+        <DestinationID>GJA</DestinationID>
+        <DestinationLLA>N16° 26' 43.65",W85° 54' 24.18",+000023.00</DestinationLLA>
+        <Descr>MHUT, GJA</Descr>
+        <DepartureName>Utila Airport</DepartureName>
+        <DestinationName>Guanaja</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="MHUT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N16° 6' 47.57",W86° 52' 49.86",+000010.00</WorldPosition>
+            <RunwayNumberFP>25</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>MHUT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MHRO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N16° 19' 2.33",W86° 31' 20.26",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MHRO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MHFC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N16° 24' 13.96",W86° 17' 11.81",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MHFC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MHBA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N16° 25' 55.93",W86° 8' 22.19",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MHBA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="GJA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N16° 26' 43.65",W85° 54' 24.18",+000023.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>GJA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LGAD to LGSP</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>LGAD</DepartureID>
+        <DepartureLLA>N37° 55' 31.89",E21° 17' 52.81",+000043.00</DepartureLLA>
+        <DestinationID>LGSP</DestinationID>
+        <DestinationLLA>N36° 58' 26.16",E22° 31' 33.93",+000500.00</DestinationLLA>
+        <Descr>LGAD, LGSP</Descr>
+        <DepartureName>Andravida AB</DepartureName>
+        <DestinationName>Sparti AB</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LGAD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 55' 8.18",E21° 17' 37.64",+000043.00</WorldPosition>
+            <RunwayNumberFP>18</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>LGAD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LGRX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 9' 4.32",E21° 25' 35.41",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LGRX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LGME">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 21' 24.81",E21° 28' 50.64",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LGME</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="GX01">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 36' 49.74",E21° 23' 34.96",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>GX01</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N38° 59' 42.63",E20° 59' 12.72",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LGPZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 55' 30.40",E20° 45' 56.80",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LGPZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LGKF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 7' 12.72",E20° 30' 1.17",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LGKF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LGZA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 45' 4.12",E20° 53' 3.06",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LGZA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LGEP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 36' 49.32",E21° 29' 45.96",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LGEP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LG02">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 5' 40.53",E21° 59' 26.39",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LG02</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LGSP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 58' 26.16",E22° 31' 33.93",+000500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LGSP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

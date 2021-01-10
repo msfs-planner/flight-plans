@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>2S1 to KCLM</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>2S1</DepartureID>
+        <DepartureLLA>N47° 27' 39.66",W122° 28' 35.65",+000312.00</DepartureLLA>
+        <DestinationID>KCLM</DestinationID>
+        <DestinationLLA>N48° 7' 14.96",W123° 30' 0.36",+000266.00</DestinationLLA>
+        <Descr>2S1, KCLM</Descr>
+        <DepartureName>Vashon Muni</DepartureName>
+        <DestinationName>William R Fairchild Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="2S1">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 27' 30.87",W122° 28' 37.22",+000312.00</WorldPosition>
+            <RunwayNumberFP>17</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>2S1</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WA96">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 36' 28.52",W122° 46' 25.34",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WA96</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WN00">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 50' 17.05",W122° 51' 32.24",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WN00</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="2WA1">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 5' 32.06",W122° 55' 40.94",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>2WA1</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="W28">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 5' 52.48",W123° 11' 16.57",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>W28</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KCLM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 7' 14.96",W123° 30' 0.36",+000266.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KCLM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>SKHI to SKYV</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>SKHI</DepartureID>
+        <DepartureLLA>N3° 46' 39.27",W76° 19' 29.27",+003207.00</DepartureLLA>
+        <DestinationID>SKYV</DestinationID>
+        <DestinationLLA>N3° 18' 22.94",W76° 20' 8.36",+003251.00</DestinationLLA>
+        <Descr>SKHI, SKYV</Descr>
+        <DepartureName>La Base-Fumivalle Airport</DepartureName>
+        <DestinationName>Las Cañas Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="SKHI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N3° 46' 35.52",W76° 19' 17.30",+003207.00</WorldPosition>
+            <RunwayNumberFP>11</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>SKHI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SKYR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N3° 35' 55.12",W76° 18' 20.53",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SKYR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SKJT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N3° 30' 48.15",W76° 29' 35.09",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SKJT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SKJS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N3° 18' 28.76",W76° 29' 14.68",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SKJS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SKCQ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N3° 7' 40.48",W76° 25' 43.99",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SKCQ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SKYV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N3° 18' 22.94",W76° 20' 8.36",+003251.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SKYV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

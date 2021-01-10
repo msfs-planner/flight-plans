@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>SVQV to SVUB</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>SVQV</DepartureID>
+        <DepartureLLA>N4° 19' 56.26",W65° 15' 5.69",+003314.00</DepartureLLA>
+        <DestinationID>SVUB</DestinationID>
+        <DestinationLLA>N5° 2' 44.65",W65° 38' 8.73",+000574.00</DestinationLLA>
+        <Descr>SVQV, SVUB</Descr>
+        <DepartureName>Wanana Airport</DepartureName>
+        <DestinationName>Caño Iguana Sur Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="SVQV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N4° 19' 54.52",W65° 14' 59.34",+003314.00</WorldPosition>
+            <RunwayNumberFP>12</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>SVQV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SVWO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N4° 44' 22.13",W65° 12' 50.97",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SVWO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SVWK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N4° 57' 17.51",W64° 48' 52.86",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SVWK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SVUH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N5° 8' 41.99",W64° 49' 50.62",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SVUH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SVVN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N5° 7' 31.80",W65° 2' 42.87",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SVVN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SVUB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N5° 2' 44.65",W65° 38' 8.73",+000574.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SVUB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

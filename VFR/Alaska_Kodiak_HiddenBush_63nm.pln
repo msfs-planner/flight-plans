@@ -1,0 +1,91 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>PADQ to ORI</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>PADQ</DepartureID>
+        <DepartureLLA>N57° 45' 7.29",W152° 30' 45.98",+000035.00</DepartureLLA>
+        <DestinationID>ORI</DestinationID>
+        <DestinationLLA>N57° 53' 5.65",W152° 50' 51.23",+000042.00</DestinationLLA>
+        <Descr>PADQ, ORI</Descr>
+        <DepartureName>Kodiak</DepartureName>
+        <DestinationName>Port Lions</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="PADQ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N57° 44' 57.90",W152° 29' 35.45",+000035.00</WorldPosition>
+            <RunwayNumberFP>8</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>PADQ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PAKD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N57° 48' 22.31",W152° 22' 24.84",+001726.71</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAKD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N57° 50' 4.60",W152° 20' 1.46",+002429.12</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N57° 55' 18.39",W152° 16' 29.48",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N57° 56' 31.89",W152° 28' 0.36",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N58° 7' 7.97",W152° 33' 14.95",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP5">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N58° 11' 21.00",W152° 37' 18.41",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP6">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N58° 9' 48.46",W152° 46' 42.01",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP7">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N58° 8' 54.98",W152° 47' 28.97",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP8">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N58° 8' 35.41",W152° 50' 26.95",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP9">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N58° 5' 11.72",W152° 50' 26.95",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP10">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N57° 57' 42.73",W152° 54' 30.47",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP11">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N57° 54' 32.44",W152° 46' 18.55",+001191.03</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP12">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N57° 53' 39.24",W152° 46' 6.19",+000896.04</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="ORI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N57° 53' 5.65",W152° 50' 51.23",+000042.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ORI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

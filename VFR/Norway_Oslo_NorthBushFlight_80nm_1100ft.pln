@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>ENRK to ENKN</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>ENRK</DepartureID>
+        <DepartureLLA>N59° 24' 1.83",E11° 20' 37.14",+000372.00</DepartureLLA>
+        <DestinationID>ENKN</DestinationID>
+        <DestinationLLA>N60° 15' 52.69",E12° 1' 29.49",+000498.00</DestinationLLA>
+        <Descr>ENRK, ENKN</Descr>
+        <DepartureName>Astorp</DepartureName>
+        <DestinationName>Gjølstad Airfield</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="ENRK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N59° 23' 48.22",E11° 20' 51.89",+000372.00</WorldPosition>
+            <RunwayNumberFP>15</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>ENRK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ENSV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N59° 41' 1.99",E11° 17' 42.99",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ENSV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ENSY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N59° 39' 49.98",E11° 7' 13.00",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ENSY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ENSI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N59° 42' 25.78",E10° 52' 54.27",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ENSI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ENKJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N59° 58' 10.05",E11° 2' 21.53",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ENKJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ENAU">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N60° 1' 14.35",E11° 22' 55.76",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ENAU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ENAA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N60° 8' 2.12",E11° 27' 11.94",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ENAA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ENSW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N60° 15' 26.75",E11° 45' 4.22",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ENSW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ENKN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N60° 15' 52.69",E12° 1' 29.49",+000498.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ENKN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

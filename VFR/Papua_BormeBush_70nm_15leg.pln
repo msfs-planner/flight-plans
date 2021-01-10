@@ -1,0 +1,134 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>WAUF to WAJO</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>WAUF</DepartureID>
+        <DepartureLLA>S4° 23' 43.71",E140° 26' 4.51",+003093.00</DepartureLLA>
+        <DestinationID>WAJO</DestinationID>
+        <DestinationLLA>S4° 54' 26.45",E140° 37' 41.92",+004266.00</DestinationLLA>
+        <Descr>WAUF, WAJO</Descr>
+        <DepartureName>Borme Airstrip</DepartureName>
+        <DestinationName>Oksibil</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="WAUF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 23' 38.72",E140° 26' 12.25",+003093.00</WorldPosition>
+            <RunwayNumberFP>5</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>WAUF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAVL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 26' 23.78",E140° 29' 4.02",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAVL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAVK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 27' 53.48",E140° 23' 34.54",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAVK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAVU">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 32' 22.14",E140° 27' 43.49",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAVU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAVY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 35' 9.46",E140° 29' 59.34",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAVY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAZF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 37' 57.11",E140° 29' 50.94",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAZF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAVZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 37' 13.39",E140° 31' 52.72",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAVZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAZK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 35' 6.98",E140° 32' 2.11",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAZK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAUP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 32' 26.53",E140° 33' 59.45",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAUP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAZJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 36' 20.14",E140° 38' 5.27",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAZJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAUA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 40' 14.91",E140° 34' 27.41",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAUA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAZO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 39' 52.60",E140° 40' 37.21",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAZO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAUG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 41' 51.74",E140° 43' 20.63",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAUG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAOY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 47' 39.54",E140° 41' 39.94",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAOY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAQE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 53' 28.24",E140° 44' 32.64",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAQE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAJO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 54' 26.45",E140° 37' 41.92",+004266.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAJO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>MHNV to MHCC</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>MHNV</DepartureID>
+        <DepartureLLA>N14° 25' 59.38",W89° 11' 38.68",+002789.00</DepartureLLA>
+        <DestinationID>MHCC</DestinationID>
+        <DestinationLLA>N14° 1' 37.98",W88° 20' 36.29",+001803.00</DestinationLLA>
+        <Descr>MHNV, MHCC</Descr>
+        <DepartureName>Nueva Ocotepeque Airport</DepartureName>
+        <DestinationName>Concepción Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="MHNV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N14° 25' 53.43",W89° 11' 38.73",+002789.00</WorldPosition>
+            <RunwayNumberFP>18</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>MHNV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MH14">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N14° 37' 31.08",W88° 52' 29.84",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MH14</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MHVE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N14° 13' 47.87",W88° 47' 56.36",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MHVE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MHLP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N14° 2' 1.85",W88° 37' 41.95",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MHLP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MHLA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N14° 6' 32.53",W88° 32' 2.99",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MHLA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MHER">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N14° 14' 5.22",W88° 26' 13.21",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MHER</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MHCC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N14° 1' 37.98",W88° 20' 36.29",+001803.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MHCC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>SAVB to SAKX</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>SAVB</DepartureID>
+        <DepartureLLA>S41° 56' 55.32",W71° 32' 0.00",+001121.00</DepartureLLA>
+        <DestinationID>SAKX</DestinationID>
+        <DestinationLLA>S41° 30' 24.01",W71° 51' 4.33",+001386.00</DestinationLLA>
+        <Descr>SAVB, SAKX</Descr>
+        <DepartureName>El Bolson</DepartureName>
+        <DestinationName>El Bolson Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="SAVB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S41° 56' 35.57",W71° 31' 55.55",+001121.00</WorldPosition>
+            <RunwayNumberFP>36</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>SAVB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCSR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S42° 4' 26.46",W71° 51' 46.63",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCSR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCBT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S42° 1' 35.24",W72° 5' 57.06",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCBT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCRN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S41° 57' 42.40",W72° 27' 11.47",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCRN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCCK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S41° 47' 59.97",W72° 43' 16.12",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCCK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCPB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S41° 39' 30.41",W72° 17' 59.49",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCPB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCKM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S41° 28' 57.86",W72° 18' 27.28",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCKM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCLT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S41° 14' 10.51",W72° 4' 5.68",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCLT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MTRND">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S41° 13' 17.53",W71° 53' 49.35",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="SAKX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S41° 30' 24.01",W71° 51' 4.33",+001386.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SAKX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

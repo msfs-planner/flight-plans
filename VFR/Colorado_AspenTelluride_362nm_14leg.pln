@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>KDRO to CD32</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>KDRO</DepartureID>
+        <DepartureLLA>N37° 8' 30.19",W107° 45' 47.35",+006654.00</DepartureLLA>
+        <DestinationID>CD32</DestinationID>
+        <DestinationLLA>N37° 54' 32.43",W107° 21' 2.44",+009300.00</DestinationLLA>
+        <Descr>KDRO, CD32</Descr>
+        <DepartureName>Durango-La Plata Co</DepartureName>
+        <DestinationName>Castle Lakes</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KDRO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 9' 5.51",W107° 45' 13.65",+006654.00</WorldPosition>
+            <RunwayNumberFP>3</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>KDRO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KPSO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 17' 10.52",W107° 3' 21.63",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KPSO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="C24">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 49' 19.43",W106° 55' 48.06",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>C24</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CD69">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 44' 27.27",W106° 31' 33.99",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CD69</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="04V">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 5' 57.47",W106° 10' 27.76",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>04V</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KANK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 32' 17.86",W106° 2' 55.18",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KANK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KAEJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 48' 51.11",W106° 7' 14.32",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KAEJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KLXV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 13' 10.10",W106° 18' 59.14",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KLXV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KASE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 13' 18.76",W106° 52' 5.69",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KASE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="0CO2">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 51' 6.48",W106° 55' 41.24",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>0CO2</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KGUC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 31' 57.27",W106° 56' 3.68",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KGUC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="99V">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 42' 13.39",W107° 38' 49.57",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>99V</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KMTJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 30' 31.54",W107° 53' 40.12",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KMTJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KTEX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 57' 13.72",W107° 54' 31.48",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KTEX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CD32">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 54' 32.43",W107° 21' 2.44",+009300.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CD32</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

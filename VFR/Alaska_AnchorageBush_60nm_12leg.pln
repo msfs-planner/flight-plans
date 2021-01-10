@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>PAWS to 1AK7</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>PAWS</DepartureID>
+        <DepartureLLA>N61° 34' 8.30",W149° 32' 54.79",+000345.00</DepartureLLA>
+        <DestinationID>1AK7</DestinationID>
+        <DestinationLLA>N61° 15' 2.84",W149° 18' 5.12",+000613.00</DestinationLLA>
+        <Descr>PAWS, 1AK7</Descr>
+        <DepartureName>Wasilla</DepartureName>
+        <DestinationName>Hardee Field</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="PAWS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 34' 17.82",W149° 32' 24.91",+000345.00</WorldPosition>
+            <RunwayNumberFP>4</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>PAWS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="4AK2">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 33' 28.12",W149° 25' 25.84",+001476.67</WorldPosition>
+            <ICAO>
+                <ICAOIdent>4AK2</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="23AK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 35' 38.53",W149° 18' 38.02",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>23AK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="3AK2">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 37' 38.21",W149° 17' 8.54",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>3AK2</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="3AK8">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 39' 48.43",W149° 23' 29.66",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>3AK8</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="AK25">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 37' 3.81",W149° 36' 52.26",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>AK25</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="10AK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 35' 30.39",W149° 40' 39.84",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>10AK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="AK95">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 34' 11.89",W149° 46' 42.83",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>AK95</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="20AK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 30' 16.30",W149° 53' 42.07",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>20AK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="64AK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 26' 19.59",W150° 1' 40.80",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>64AK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Z40">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 23' 40.64",W149° 50' 33.33",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>Z40</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="47AK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 17' 32.59",W149° 31' 55.08",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>47AK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="1AK7">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N61° 15' 2.84",W149° 18' 5.12",+000613.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>1AK7</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

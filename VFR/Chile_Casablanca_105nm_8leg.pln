@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>SCZE to SCKL</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>SCZE</DepartureID>
+        <DepartureLLA>S33° 44' 33.29",W70° 33' 2.24",+002515.00</DepartureLLA>
+        <DestinationID>SCKL</DestinationID>
+        <DestinationLLA>S33° 20' 13.14",W70° 51' 3.65",+001558.00</DestinationLLA>
+        <Descr>SCZE, SCKL</Descr>
+        <DepartureName>Estero Seco Airport</DepartureName>
+        <DestinationName>Lipangui Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="SCZE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S33° 44' 42.41",W70° 32' 58.45",+002515.00</WorldPosition>
+            <RunwayNumberFP>16</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>SCZE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCEG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S33° 42' 35.79",W70° 54' 56.37",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCEG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCMP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S33° 40' 34.52",W71° 11' 32.17",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCMP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCTS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S33° 34' 31.38",W71° 15' 46.99",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCTS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCRS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S33° 29' 19.69",W71° 24' 20.88",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCRS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCSG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S33° 21' 12.22",W71° 37' 34.67",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCSG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCFL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S33° 16' 42.68",W71° 22' 38.13",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCFL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCCV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S33° 24' 45.71",W71° 9' 57.11",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCCV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCKL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S33° 20' 13.14",W70° 51' 3.65",+001558.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCKL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

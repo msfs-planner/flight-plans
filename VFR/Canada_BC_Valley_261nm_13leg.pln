@@ -1,0 +1,171 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>S10 to CYKA</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>S10</DepartureID>
+        <DepartureLLA>N47° 51' 49.10",W119° 56' 45.95",+001258.00</DepartureLLA>
+        <DestinationID>CYKA</DestinationID>
+        <DestinationLLA>N50° 42' 8.63",W120° 26' 38.98",+001131.00</DestinationLLA>
+        <Descr>S10, CYKA</Descr>
+        <DepartureName>Chelan Mun</DepartureName>
+        <DestinationName>Kamloops</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="S10">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 51' 57.69",W119° 56' 33.62",+001258.00</WorldPosition>
+            <RunwayNumberFP>2</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>S10</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="S97">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 6' 17.05",W119° 43' 11.89",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>S97</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KOMK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 27' 51.84",W119° 31' 4.82",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KOMK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="W01">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 43' 29.46",W119° 27' 56.05",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>W01</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="0S7">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 57' 32.15",W119° 24' 42.80",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>0S7</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CAU3">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N49° 10' 22.79",W119° 33' 2.68",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CAU3</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYYF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N49° 27' 44.83",W119° 36' 8.23",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYYF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N49° 45' 10.37",W119° 44' 13.64",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N49° 51' 39.61",W119° 26' 5.99",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYLW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N49° 57' 25.94",W119° 22' 40.55",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYLW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N50° 0' 58.83",W119° 23' 53.74",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N50° 5' 50.07",W119° 28' 51.61",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP5">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N50° 11' 21.15",W119° 28' 26.89",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP6">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N50° 13' 5.58",W119° 25' 16.55",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYVK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N50° 14' 46.09",W119° 19' 51.74",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYVK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP7">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N50° 16' 8.95",W119° 15' 43.07",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP8">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N50° 23' 22.91",W119° 15' 25.76",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP9">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N50° 27' 1.83",W119° 13' 37.00",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP10">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N50° 36' 11.83",W119° 13' 24.64",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP11">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N50° 37' 44.38",W119° 11' 28.46",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="CZAM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N50° 40' 57.41",W119° 13' 43.26",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CZAM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CRC3">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N50° 57' 56.77",W119° 13' 31.83",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CRC3</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CSQ2">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N50° 52' 45.37",W119° 35' 26.46",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CSQ2</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYCI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N50° 39' 34.05",W119° 47' 36.69",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYCI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYCF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N50° 38' 54.33",W119° 54' 3.93",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYCF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYKA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N50° 42' 8.63",W120° 26' 38.98",+001131.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYKA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

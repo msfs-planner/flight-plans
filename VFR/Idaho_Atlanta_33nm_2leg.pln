@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>U86 to 55H</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>U86</DepartureID>
+        <DepartureLLA>N43° 20' 30.61",W114° 47' 36.86",+005058.00</DepartureLLA>
+        <DestinationID>55H</DestinationID>
+        <DestinationLLA>N43° 48' 42.61",W115° 8' 3.76",+005500.00</DestinationLLA>
+        <Descr>U86, 55H</Descr>
+        <DepartureName>Camas Co</DepartureName>
+        <DestinationName>Atlanta</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="U86">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 20' 30.59",W114° 47' 54.85",+005058.00</WorldPosition>
+            <RunwayNumberFP>26</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>U86</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="23ID">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 38' 53.37",W114° 54' 16.81",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>23ID</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="55H">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 48' 42.61",W115° 8' 3.76",+005500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>55H</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

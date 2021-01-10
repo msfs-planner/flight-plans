@@ -1,0 +1,61 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>SA46 to SASA</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>SA46</DepartureID>
+        <DepartureLLA>S27° 38' 59.55",W67° 37' 34.67",+005141.00</DepartureLLA>
+        <DestinationID>SASA</DestinationID>
+        <DestinationLLA>S24° 51' 19.90",W65° 29' 1.00",+004044.00</DestinationLLA>
+        <Descr>SA46, SASA</Descr>
+        <DepartureName>Fiambala</DepartureName>
+        <DestinationName>Gral M M De Guemes</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="SA46">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S27° 38' 31.37",W67° 37' 29.09",+005141.00</WorldPosition>
+            <RunwayNumberFP>36</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>SA46</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SA11">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S27° 4' 19.95",W66° 35' 9.79",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SA11</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SA02">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S26° 3' 21.91",W65° 56' 12.31",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SA02</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SA01">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S25° 6' 18.60",W66° 9' 26.02",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SA01</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S25° 2' 31.41",W65° 31' 41.62",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="SASA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S24° 51' 19.90",W65° 29' 1.00",+004044.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SASA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

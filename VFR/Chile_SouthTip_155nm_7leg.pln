@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>SAWE to SCAZ</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>SAWE</DepartureID>
+        <DepartureLLA>S53° 46' 40.57",W67° 45' 51.09",+000054.00</DepartureLLA>
+        <DestinationID>SCAZ</DestinationID>
+        <DestinationLLA>S54° 28' 52.39",W68° 56' 22.75",+000059.00</DestinationLLA>
+        <Descr>SAWE, SCAZ</Descr>
+        <DepartureName>Rio Grande</DepartureName>
+        <DestinationName>Azopardo Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="SAWE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S53° 46' 39.15",W67° 44' 58.21",+000054.00</WorldPosition>
+            <RunwayNumberFP>8</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>SAWE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SAUY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S54° 4' 9.13",W67° 39' 11.65",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SAUY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Z00T">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S54° 20' 34.66",W67° 50' 14.32",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>Z00T</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SAWL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S54° 29' 58.54",W67° 10' 20.12",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SAWL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCGZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S54° 55' 51.67",W67° 37' 34.34",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCGZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SAWH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S54° 50' 35.80",W68° 17' 41.55",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SAWH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCNY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S54° 49' 51.00",W68° 50' 5.04",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCNY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCAZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S54° 28' 52.39",W68° 56' 22.75",+000059.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCAZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

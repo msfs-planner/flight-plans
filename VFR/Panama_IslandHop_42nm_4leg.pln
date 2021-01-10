@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>MP26 to MPRA</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>MP26</DepartureID>
+        <DepartureLLA>N8° 13' 33.29",W78° 53' 57.42",+000092.00</DepartureLLA>
+        <DestinationID>MPRA</DestinationID>
+        <DestinationLLA>N8° 37' 42.31",W79° 2' 4.78",+000036.00</DestinationLLA>
+        <Descr>MP26, MPRA</Descr>
+        <DepartureName>Punta Cocos</DepartureName>
+        <DestinationName>Coronel Raul Arias Espinoza</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="MP26">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N8° 13' 29.14",W78° 54' 15.96",+000092.00</WorldPosition>
+            <RunwayNumberFP>26</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>MP26</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SIC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N8° 15' 43.96",W79° 4' 40.37",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SIC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MPFE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N8° 24' 39.36",W79° 6' 39.98",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MPFE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MPSN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N8° 27' 23.35",W78° 56' 3.22",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MPSN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MPRA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N8° 37' 42.31",W79° 2' 4.78",+000036.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MPRA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

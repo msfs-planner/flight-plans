@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LRBS to LRBS</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>LRBS</DepartureID>
+        <DepartureLLA>N44° 29' 59.56",E26° 5' 10.05",+000290.00</DepartureLLA>
+        <DestinationID>LRBS</DestinationID>
+        <DestinationLLA>N44° 30' 11.95",E26° 6' 10.05",+000290.00</DestinationLLA>
+        <Descr>LRBS, LRBS</Descr>
+        <DepartureName>Baneasa</DepartureName>
+        <DestinationName>Baneasa</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LRBS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 30' 11.95",E26° 6' 10.05",+000290.00</WorldPosition>
+            <RunwayNumberFP>7</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>LRBS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="BCHDT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 25' 54.63",E26° 6' 3.43",+001706.25</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="BCHPL">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 25' 38.88",E26° 5' 14.14",+001918.45</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LRCO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 21' 30.89",E25° 55' 50.35",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LRCO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LRBS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 30' 11.95",E26° 6' 10.05",+000290.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LRBS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

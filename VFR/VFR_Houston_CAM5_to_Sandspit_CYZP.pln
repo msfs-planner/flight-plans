@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>CAM5 to CYZP</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>8500</CruisingAlt>
+        <DepartureID>CAM5</DepartureID>
+        <DepartureLLA>N54° 26' 9.29",W126° 46' 33.38",+002150.00</DepartureLLA>
+        <DestinationID>CYZP</DestinationID>
+        <DestinationLLA>N53° 15' 15.41",W131° 48' 50.05",+000019.00</DestinationLLA>
+        <Descr>CAM5, CYZP</Descr>
+        <DepartureName>Houston</DepartureName>
+        <DestinationName>Sandspit</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="CAM5">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N54° 26' 25.86",W126° 46' 48.68",+002150.00</WorldPosition>
+            <RunwayNumberFP>31</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>CAM5</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYXT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N54° 27' 57.45",W128° 34' 54.76",+008500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYXT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CBW2">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N54° 10' 10.52",W128° 34' 39.71",+008500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CBW2</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N54° 9' 4.24",W128° 33' 20.28",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N53° 52' 7.41",W128° 46' 50.91",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N53° 36' 46.36",W129° 12' 43.28",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N53° 25' 16.31",W129° 12' 51.35",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP5">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N53° 23' 47.15",W129° 17' 1.01",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP6">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N53° 21' 37.39",W129° 15' 46.86",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP7">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N53° 17' 37.49",W129° 19' 39.22",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP8">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N53° 16' 59.81",W129° 24' 8.66",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP9">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N53° 12' 51.32",W129° 26' 48.07",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP10">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N53° 7' 14.95",W129° 50' 39.31",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP11">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N53° 14' 26.04",W131° 33' 9.46",+008500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP12">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N53° 28' 35.78",W131° 52' 16.43",+006040.28</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP13">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N53° 27' 41.34",W131° 58' 26.01",+004793.12</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP14">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N53° 24' 53.47",W131° 59' 35.23",+003841.86</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYZP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N53° 15' 15.41",W131° 48' 50.05",+000019.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYZP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

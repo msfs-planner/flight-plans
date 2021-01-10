@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>GMMB to GMFZ</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>GMMB</DepartureID>
+        <DepartureLLA>N33° 39' 58.45",W7° 13' 53.80",+000571.00</DepartureLLA>
+        <DestinationID>GMFZ</DestinationID>
+        <DestinationLLA>N34° 13' 54.97",W3° 56' 48.20",+001887.00</DestinationLLA>
+        <Descr>GMMB, GMFZ</Descr>
+        <DepartureName>Benslimane</DepartureName>
+        <DestinationName>Taza</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="GMMB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 39' 24.04",W7° 13' 20.53",+000571.00</WorldPosition>
+            <RunwayNumberFP>14</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>GMMB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="GMME">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 3' 5.23",W6° 45' 5.45",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>GMME</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="GMSL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 13' 50.32",W6° 3' 0.77",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>GMSL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 0' 5.19",W5° 53' 21.82",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="GMFM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 52' 44.43",W5° 30' 54.56",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>GMFM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="GMFF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 55' 38.26",W4° 58' 40.22",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>GMFF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 6' 30.22",W4° 30' 36.03",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 9' 3.69",W4° 20' 40.30",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 11' 22.76",W4° 11' 1.87",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP5">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 12' 52.71",W4° 2' 41.30",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP6">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 12' 37.12",W4° 1' 19.42",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="GMFZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 13' 54.97",W3° 56' 48.20",+001887.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>GMFZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

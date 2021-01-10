@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>KTIW to CYVR</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>KTIW</DepartureID>
+        <DepartureLLA>N47° 16' 28.10",W122° 34' 36.99",+000293.00</DepartureLLA>
+        <DestinationID>CYVR</DestinationID>
+        <DestinationLLA>N49° 11' 38.62",W123° 11' 5.77",+000009.00</DestinationLLA>
+        <Descr>KTIW, CYVR</Descr>
+        <DepartureName>Tacoma Narrows</DepartureName>
+        <DestinationName>Vancouver Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KTIW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 16' 4.59",W122° 34' 41.25",+000293.00</WorldPosition>
+            <RunwayNumberFP>17</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>KTIW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KPWT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 29' 24.95",W122° 45' 53.50",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KPWT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KAWO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 9' 37.51",W122° 9' 35.08",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KAWO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KBVS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 28' 5.21",W122° 25' 17.13",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KBVS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CBQ2">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N49° 10' 3.77",W122° 33' 25.33",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CBQ2</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYVR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N49° 11' 38.62",W123° 11' 5.77",+000009.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYVR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

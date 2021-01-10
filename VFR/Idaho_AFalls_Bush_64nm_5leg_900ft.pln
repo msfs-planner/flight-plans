@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>U51 to U78</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>U51</DepartureID>
+        <DepartureLLA>N42° 43' 16.67",W111° 52' 12.23",+005435.00</DepartureLLA>
+        <DestinationID>U78</DestinationID>
+        <DestinationLLA>N42° 38' 54.10",W111° 34' 53.64",+005838.00</DestinationLLA>
+        <Descr>U51, U78</Descr>
+        <DepartureName>Bancroft Mun</DepartureName>
+        <DestinationName>Tigert</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="U51">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 43' 16.69",W111° 51' 50.53",+005435.00</WorldPosition>
+            <RunwayNumberFP>8</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>U51</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="1ID9">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 45' 50.44",W112° 11' 9.59",+002500.00</WorldPosition>
+            <RunwayNumberFP>10</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>1ID9</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 37' 36.78",W112° 9' 57.38",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="01ID">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 36' 26.36",W112° 1' 57.61",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>01ID</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 37' 6.78",W111° 57' 16.03",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 31' 57.33",W111° 53' 38.50",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KSOO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 26' 44.05",W111° 46' 40.96",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KSOO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ID62">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 36' 30.47",W111° 43' 43.32",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ID62</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 39' 5.90",W111° 43' 8.16",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="U78">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 38' 54.10",W111° 34' 53.64",+005838.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>U78</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

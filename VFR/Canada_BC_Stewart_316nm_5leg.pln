@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>CYPZ to CZST</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>CYPZ</DepartureID>
+        <DepartureLLA>N54° 22' 52.60",W125° 57' 32.89",+002343.00</DepartureLLA>
+        <DestinationID>CZST</DestinationID>
+        <DestinationLLA>N55° 56' 0.00",W129° 59' 0.01",+000024.00</DestinationLLA>
+        <Descr>CYPZ, CZST</Descr>
+        <DepartureName>Burns Lake</DepartureName>
+        <DestinationName>Stewart</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="CYPZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N54° 22' 35.18",W125° 57' 4.93",+002343.00</WorldPosition>
+            <RunwayNumberFP>11</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>CYPZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYYD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N54° 49' 31.68",W127° 10' 58.44",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYYD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYXT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N54° 27' 57.45",W128° 34' 54.76",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYXT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYPR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N54° 17' 9.25",W130° 26' 41.04",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYPR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PAKT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N55° 21' 19.87",W131° 42' 49.54",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAKT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CZST">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N55° 56' 0.00",W129° 59' 0.01",+000024.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CZST</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

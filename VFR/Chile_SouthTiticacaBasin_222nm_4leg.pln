@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>SLUY to SLCZ</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>SLUY</DepartureID>
+        <DepartureLLA>S20° 25' 55.62",W66° 52' 24.73",+012020.00</DepartureLLA>
+        <DestinationID>SLCZ</DestinationID>
+        <DestinationLLA>S19° 28' 23.10",W68° 39' 31.51",+012399.00</DestinationLLA>
+        <Descr>SLUY, SLCZ</Descr>
+        <DepartureName>La Joya Andina</DepartureName>
+        <DestinationName>Cruz De Machacamarca Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="SLUY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S20° 26' 28.56",W66° 51' 26.31",+012020.00</WorldPosition>
+            <RunwayNumberFP>13</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>SLUY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SLTL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S21° 10' 31.61",W67° 10' 1.03",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SLTL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCCZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S21° 13' 20.20",W68° 14' 18.11",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCCZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCKP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S20° 45' 5.93",W68° 40' 56.85",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCKP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SLCZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S19° 28' 23.10",W68° 39' 31.51",+012399.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SLCZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

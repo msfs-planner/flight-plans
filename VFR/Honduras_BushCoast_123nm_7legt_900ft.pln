@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>MHTE to MHTJ</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>MHTE</DepartureID>
+        <DepartureLLA>N15° 46' 21.92",W87° 28' 51.03",+000005.00</DepartureLLA>
+        <DestinationID>MHTJ</DestinationID>
+        <DestinationLLA>N15° 55' 36.61",W85° 56' 17.72",+000003.00</DestinationLLA>
+        <Descr>MHTE, MHTJ</Descr>
+        <DepartureName>Tela</DepartureName>
+        <DestinationName>Trujillo</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="MHTE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N15° 46' 33.11",W87° 28' 32.77",+000005.00</WorldPosition>
+            <RunwayNumberFP>6</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>MHTE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MHAI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N15° 34' 59.16",W87° 23' 34.16",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MHAI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MHHO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N15° 25' 50.50",W86° 53' 27.24",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MHHO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MHJC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N15° 17' 28.16",W86° 54' 44.72",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MHJC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MHCS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N15° 26' 43.45",W86° 40' 34.46",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MHCS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MHPV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N15° 31' 49.60",W86° 16' 23.80",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MHPV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MHEZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N15° 36' 34.58",W86° 8' 19.27",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MHEZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MHTJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N15° 55' 36.61",W85° 56' 17.72",+000003.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MHTJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

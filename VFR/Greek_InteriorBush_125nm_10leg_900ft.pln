@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LW75 to LGAR</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>LW75</DepartureID>
+        <DepartureLLA>N42° 3' 43.50",E21° 22' 58.50",+001047.00</DepartureLLA>
+        <DestinationID>LGAR</DestinationID>
+        <DestinationLLA>N40° 50' 26.46",E21° 49' 17.63",+002046.00</DestinationLLA>
+        <Descr>LW75, LGAR</Descr>
+        <DepartureName>Brazda</DepartureName>
+        <DestinationName>Arnissa Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LW75">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 3' 33.86",E21° 23' 19.67",+001047.00</WorldPosition>
+            <RunwayNumberFP>12</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>LW75</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LWSK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 57' 33.80",E21° 37' 19.97",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LWSK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LW76">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 54' 53.04",E21° 57' 16.76",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LW76</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LW71">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 49' 41.22",E21° 59' 11.84",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LW71</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LW70">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 45' 34.61",E21° 50' 31.25",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LW70</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LWGR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 33' 10.32",E21° 56' 55.86",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LWGR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LW69">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 25' 46.56",E21° 24' 7.82",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LW69</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LW66">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 20' 1.64",E21° 26' 55.11",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LW66</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LW68">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 9' 5.88",E21° 24' 24.59",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LW68</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LW74">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 1' 13.75",E21° 25' 31.04",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LW74</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LGAR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 50' 26.46",E21° 49' 17.63",+002046.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LGAR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

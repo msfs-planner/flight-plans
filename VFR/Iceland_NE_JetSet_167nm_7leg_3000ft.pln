@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>BINF to BIAR</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>BINF</DepartureID>
+        <DepartureLLA>N65° 8' 1.12",W13° 44' 9.11",+000005.00</DepartureLLA>
+        <DestinationID>BIAR</DestinationID>
+        <DestinationLLA>N65° 39' 23.74",W18° 4' 19.32",+000006.00</DestinationLLA>
+        <Descr>BINF, BIAR</Descr>
+        <DepartureName>Nordfjordur</DepartureName>
+        <DestinationName>Akureyri</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="BINF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N65° 7' 54.58",W13° 44' 46.40",+000005.00</WorldPosition>
+            <RunwayNumberFP>26</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>BINF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="BIEG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N65° 17' 0.60",W14° 24' 4.77",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>BIEG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="BIVO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N65° 43' 14.01",W14° 51' 1.45",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>BIVO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="BITN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N66° 13' 6.32",W15° 20' 5.13",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>BITN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="BIRG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N66° 24' 22.77",W15° 55' 29.87",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>BIRG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="BIKP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N66° 18' 46.81",W16° 27' 49.66",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>BIKP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="BIHU">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N65° 57' 9.05",W17° 25' 33.55",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>BIHU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="BIAR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N65° 39' 23.74",W18° 4' 19.32",+000006.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>BIAR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

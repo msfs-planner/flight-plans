@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>CBA9 to CAJ9</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>CBA9</DepartureID>
+        <DepartureLLA>N56° 15' 57.95",W124° 4' 26.61",+002334.00</DepartureLLA>
+        <DestinationID>CAJ9</DestinationID>
+        <DestinationLLA>N57° 25' 38.13",W125° 38' 47.81",+002493.00</DestinationLLA>
+        <Descr>CBA9, CAJ9</Descr>
+        <DepartureName>Ospika</DepartureName>
+        <DestinationName>Ft Ware</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="CBA9">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N56° 16' 15.09",W124° 3' 49.37",+002334.00</WorldPosition>
+            <RunwayNumberFP>3</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>CBA9</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CBW3">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N56° 31' 19.71",W124° 28' 13.73",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CBW3</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CBT8">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N56° 43' 27.15",W125° 6' 58.85",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CBT8</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CBN9">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N56° 54' 24.63",W124° 57' 56.95",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CBN9</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CBF2">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N57° 16' 18.00",W125° 27' 3.67",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CBF2</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CAJ9">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N57° 25' 38.13",W125° 38' 47.81",+002493.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CAJ9</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

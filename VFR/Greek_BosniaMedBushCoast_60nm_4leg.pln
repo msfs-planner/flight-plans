@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LQGL to LDSH</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>LQGL</DepartureID>
+        <DepartureLLA>N44° 5' 2.96",E16° 49' 9.87",+002979.00</DepartureLLA>
+        <DestinationID>LDSH</DestinationID>
+        <DestinationLLA>N43° 10' 53.66",E16° 38' 0.29",+000081.00</DestinationLLA>
+        <Descr>LQGL, LDSH</Descr>
+        <DepartureName>Glamoc Airport</DepartureName>
+        <DestinationName>Hvar</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LQGL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 5' 19.99",E16° 48' 53.35",+002979.00</WorldPosition>
+            <RunwayNumberFP>32</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>LQGL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LQLV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 47' 28.26",E16° 53' 37.66",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LQLV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LDSS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 42' 1.54",E16° 40' 16.84",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LDSS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LDSB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 17' 8.62",E16° 40' 47.08",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LDSB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LDSH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 10' 53.66",E16° 38' 0.29",+000081.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LDSH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

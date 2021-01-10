@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LGPL to LGIK</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>LGPL</DepartureID>
+        <DepartureLLA>N36° 35' 0.78",E26° 22' 22.04",+000154.00</DepartureLLA>
+        <DestinationID>LGIK</DestinationID>
+        <DestinationLLA>N37° 40' 58.04",E26° 20' 49.31",+000066.00</DestinationLLA>
+        <Descr>LGPL, LGIK</Descr>
+        <DepartureName>Astypalaia</DepartureName>
+        <DestinationName>Ikaria</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LGPL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 34' 47.80",E26° 22' 31.30",+000154.00</WorldPosition>
+            <RunwayNumberFP>15</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>LGPL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LGKO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 47' 40.51",E27° 5' 28.18",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LGKO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LGKY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 57' 48.47",E26° 56' 26.43",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LGKY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LGLE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 11' 5.94",E26° 47' 59.90",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LGLE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LGSM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 41' 20.85",E26° 54' 45.08",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LGSM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LGIK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 40' 58.04",E26° 20' 49.31",+000066.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LGIK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LEZL to LXGB</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>LEZL</DepartureID>
+        <DepartureLLA>N37° 25' 4.36",W5° 54' 42.19",+000097.00</DepartureLLA>
+        <DestinationID>LXGB</DestinationID>
+        <DestinationLLA>N36° 9' 3.82",W5° 20' 59.89",+000011.00</DestinationLLA>
+        <Descr>LEZL, LXGB</Descr>
+        <DepartureName>San Pablo</DepartureName>
+        <DestinationName>Gibraltar AB</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LEZL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 25' 4.61",W5° 53' 35.21",+000097.00</WorldPosition>
+            <RunwayNumberFP>9</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>LEZL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 25' 3.42",W5° 51' 10.86",+000727.90</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 22' 49.89",W5° 49' 18.39",+001612.10</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 15' 23.63",W6° 5' 19.97",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N36° 43' 1.72",W6° 26' 31.77",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LERT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 38' 42.78",W6° 20' 57.98",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LERT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LXGB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 9' 3.82",W5° 20' 59.89",+000011.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LXGB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

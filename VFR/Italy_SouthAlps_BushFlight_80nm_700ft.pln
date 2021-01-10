@@ -1,0 +1,133 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LF56 to LF54</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>LF56</DepartureID>
+        <DepartureLLA>N44° 51' 15.53",E5° 10' 12.14",+003138.00</DepartureLLA>
+        <DestinationID>LF54</DestinationID>
+        <DestinationLLA>N44° 55' 27.26",E5° 36' 43.79",+003187.00</DestinationLLA>
+        <Descr>LF56, LF54</Descr>
+        <DepartureName>Chabeuil Airport</DepartureName>
+        <DestinationName>Le Gua Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LF56">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 51' 10.93",E5° 10' 7.39",+003138.00</WorldPosition>
+            <RunwayNumberFP>21</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>LF56</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LFJF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 41' 42.75",E5° 9' 2.48",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFJF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LF55">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 32' 14.76",E5° 18' 31.69",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LF55</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LF53">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 33' 12.62",E5° 26' 18.60",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LF53</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LFJE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 29' 42.33",E5° 24' 8.00",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFJE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LFTG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 25' 19.38",E5° 38' 36.58",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFTG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 25' 43.95",E5° 41' 41.24",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LFTM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 27' 26.19",E5° 43' 37.80",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFTM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LFNJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 31' 0.53",E5° 44' 12.72",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFNJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 32' 43.67",E5° 46' 46.83",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 35' 49.89",E5° 47' 5.99",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 37' 38.98",E5° 48' 39.92",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LFNY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 40' 6.43",E5° 54' 18.42",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFNY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LFPS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 50' 35.65",E5° 57' 46.83",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFPS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LFRR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 47' 37.70",E5° 45' 50.44",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LFRR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ALSDM">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N44° 48' 18.26",E5° 45' 15.84",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LF79">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 50' 26.40",E5° 33' 5.64",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LF79</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LF54">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 55' 27.26",E5° 36' 43.79",+003187.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LF54</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

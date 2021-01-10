@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>PAIK to PALU</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>PAIK</DepartureID>
+        <DepartureLLA>N66° 58' 31.07",W160° 26' 54.28",+000153.00</DepartureLLA>
+        <DestinationID>PALU</DestinationID>
+        <DestinationLLA>N68° 52' 30.66",W166° 6' 42.59",+000013.00</DestinationLLA>
+        <Descr>PAIK, PALU</Descr>
+        <DepartureName>Bob Baker Memorial</DepartureName>
+        <DestinationName>Cape Lisburne LRRS</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="PAIK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N66° 58' 33.48",W160° 26' 11.70",+000153.00</WorldPosition>
+            <RunwayNumberFP>6</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>PAIK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PFNO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N66° 49' 3.15",W161° 1' 20.26",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PFNO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PAOT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N66° 53' 2.03",W162° 36' 3.59",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAOT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PAWN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N67° 33' 41.81",W162° 58' 47.66",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAWN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N67° 44' 18.94",W164° 34' 20.60",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="PAPO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N68° 20' 55.49",W166° 47' 57.43",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAPO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PALU">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N68° 52' 30.66",W166° 6' 42.59",+000013.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PALU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

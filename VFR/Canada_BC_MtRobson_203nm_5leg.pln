@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>FT7 to CFK7</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>FT7</DepartureID>
+        <DepartureLLA>N52° 50' 8.76",W116° 43' 7.75",+004590.00</DepartureLLA>
+        <DestinationID>CFK7</DestinationID>
+        <DestinationLLA>N54° 17' 12.66",W119° 50' 36.18",+003676.00</DestinationLLA>
+        <Descr>FT7, CFK7</Descr>
+        <DepartureName>Thunder Lake</DepartureName>
+        <DestinationName>Sherman Meadows</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="FT7">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N52° 50' 12.67",W116° 42' 37.95",+004590.00</WorldPosition>
+            <RunwayNumberFP>6</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>FT7</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYJA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N52° 59' 48.95",W118° 3' 38.08",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYJA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CAH4">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N52° 51' 9.88",W119° 20' 10.45",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CAH4</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CEQ5">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N53° 55' 0.62",W118° 52' 27.17",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CEQ5</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CFK7">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N54° 17' 12.66",W119° 50' 36.18",+003676.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CFK7</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

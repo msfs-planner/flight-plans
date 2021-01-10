@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>Sky Island Ranch to Polson</Title>
+        <FPType>VFR</FPType>
+        <CruisingAlt>7500.000</CruisingAlt>
+        <DepartureID>ID13</DepartureID>
+        <DepartureLLA>N47° 19' 17.91",W116° 38' 16.01",+002880.00</DepartureLLA>
+        <DestinationID>8S1</DestinationID>
+        <DestinationLLA>N47° 41' 43.68",W114° 11' 7.11",+002938.00</DestinationLLA>
+        <Descr>Sky Island Ranch to Polson</Descr>
+        <DepartureName>Sky Island Ranch</DepartureName>
+        <DestinationName>Polson</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="ID13">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 19' 17.91",W116° 38' 16.01",+002880.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <RunwayNumberFP>27</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>ID13</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Shoshone Co">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 32' 50.31",W116° 11' 20.70",+007400.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>S83</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Pinehurst Ranch">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 39' 31.96",W115° 24' 9.38",+007500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>0MT7</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Thompson Falls">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 34' 24.65",W115° 16' 50.54",+007500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>KTHM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Plains">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 28' 24.79",W114° 54' 25.54",+007500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>S34</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Hot Springs">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 36' 51.10",W114° 36' 45.75",+007500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>S09</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Cabin Creek Landing">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 4' 26.29",W114° 40' 40.31",+006500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>97MT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="Campbell Ranch">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 0' 15.94",W114° 59' 52.97",+006500.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>MT88</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="8S1">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 41' 43.68",W114° 11' 7.11",+002950.00</WorldPosition>
+            <SpeedMaxFP>-1</SpeedMaxFP>
+            <ICAO>
+                <ICAOIdent>8S1</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

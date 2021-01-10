@@ -1,0 +1,92 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>2G8 to KLCI</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>2G8</DepartureID>
+        <DepartureLLA>N44° 23' 33.06",W71° 11' 35.82",+000835.00</DepartureLLA>
+        <DestinationID>KLCI</DestinationID>
+        <DestinationLLA>N43° 34' 30.84",W71° 25' 17.29",+000531.00</DestinationLLA>
+        <Descr>2G8, KLCI</Descr>
+        <DepartureName>Gorham</DepartureName>
+        <DestinationName>Laconia Mun</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="2G8">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 23' 36.91",W71° 11' 53.07",+000835.00</WorldPosition>
+            <RunwayNumberFP>30</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>2G8</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KHIE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 22' 3.28",W71° 32' 44.93",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KHIE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="8B2">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 15' 50.69",W71° 32' 48.34",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>8B2</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="1B5">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 11' 43.48",W71° 45' 2.20",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>1B5</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NH49">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 58' 12.09",W71° 40' 49.87",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NH49</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="1P1">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 46' 42.02",W71° 45' 15.96",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>1P1</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="2N2">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 35' 28.27",W71° 45' 6.10",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>2N2</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="94NH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 28' 36.02",W71° 44' 51.35",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>94NH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NH20">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 29' 29.36",W71° 38' 39.63",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NH20</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KLCI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 34' 30.84",W71° 25' 17.29",+000531.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KLCI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

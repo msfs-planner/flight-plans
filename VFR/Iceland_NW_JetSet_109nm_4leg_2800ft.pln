@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>BIGJ to BIRF</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>BIGJ</DepartureID>
+        <DepartureLLA>N65° 59' 29.43",W21° 19' 55.58",+000068.00</DepartureLLA>
+        <DestinationID>BIRF</DestinationID>
+        <DestinationLLA>N64° 54' 40.16",W23° 48' 48.45",+000021.00</DestinationLLA>
+        <Descr>BIGJ, BIRF</Descr>
+        <DepartureName>Gjogur</DepartureName>
+        <DestinationName>Rif</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="BIGJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N65° 59' 42.61",W21° 19' 38.06",+000068.00</WorldPosition>
+            <RunwayNumberFP>4</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>BIGJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 52' 38.10",W21° 11' 47.86",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 39' 46.09",W21° 22' 10.79",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="BIHK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N65° 42' 16.85",W21° 41' 46.92",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>BIHK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 39' 2.29",W21° 39' 26.52",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 27' 57.45",W21° 54' 53.50",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="BIRE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N65° 27' 5.87",W22° 12' 36.55",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>BIRE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="BIST">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N65° 3' 31.21",W22° 45' 55.20",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>BIST</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="BIRF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N64° 54' 40.16",W23° 48' 48.45",+000021.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>BIRF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

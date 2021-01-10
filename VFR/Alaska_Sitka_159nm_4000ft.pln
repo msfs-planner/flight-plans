@@ -1,0 +1,149 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>PAKE to PASI</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>PAKE</DepartureID>
+        <DepartureLLA>N56° 13' 10.47",W131° 28' 47.22",+000021.00</DepartureLLA>
+        <DestinationID>PASI</DestinationID>
+        <DestinationLLA>N57° 2' 49.60",W135° 21' 41.77",+000025.00</DestinationLLA>
+        <Descr>PAKE, PASI</Descr>
+        <DepartureName>Ketchikan Airport</DepartureName>
+        <DestinationName>Sitka Rocky Gutierrez</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="PAKE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N56° 13' 7.66",W131° 29' 6.17",+000021.00</WorldPosition>
+            <RunwayNumberFP>24</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>PAKE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N56° 11' 41.50",W131° 34' 23.18",+001100.95</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N56° 12' 44.76",W131° 53' 12.85",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N56° 14' 16.82",W131° 56' 42.96",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N56° 20' 50.53",W132° 0' 15.55",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP5">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N56° 22' 27.76",W132° 5' 4.76",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP6">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N56° 22' 0.38",W132° 10' 23.64",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP7">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N56° 27' 28.58",W132° 14' 16.00",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="PAWG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N56° 29' 3.56",W132° 22' 11.76",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAWG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP8">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N56° 33' 16.42",W132° 26' 52.41",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP9">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N56° 37' 33.68",W132° 34' 39.60",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP10">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N56° 49' 58.16",W132° 48' 0.51",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="PAPG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N56° 48' 5.35",W132° 56' 46.64",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAPG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP11">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N56° 46' 28.39",W133° 16' 8.83",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP12">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N56° 52' 47.10",W133° 27' 11.30",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP13">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N56° 56' 18.98",W133° 37' 46.59",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="PAFE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N56° 57' 40.76",W133° 54' 37.11",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAFE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP14">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N57° 0' 22.18",W134° 39' 44.36",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP15">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N57° 5' 15.29",W134° 45' 24.28",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP16">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N57° 5' 14.62",W134° 52' 23.24",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP17">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N57° 4' 23.58",W134° 53' 15.15",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP18">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N57° 3' 33.85",W134° 59' 32.15",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP19">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N57° 2' 27.30",W135° 1' 28.33",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP20">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N57° 2' 5.78",W135° 4' 32.46",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP21">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N57° 0' 49.10",W135° 9' 21.68",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP22">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N57° 2' 20.57",W135° 13' 11.56",+001936.61</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP23">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N57° 0' 53.13",W135° 17' 59.57",+000948.89</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="PASI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N57° 2' 49.60",W135° 21' 41.77",+000025.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PASI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

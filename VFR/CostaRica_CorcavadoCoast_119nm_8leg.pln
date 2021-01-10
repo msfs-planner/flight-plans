@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>PX02 to MRBA</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>PX02</DepartureID>
+        <DepartureLLA>N8° 45' 58.75",W82° 39' 28.60",+004419.00</DepartureLLA>
+        <DestinationID>MRBA</DestinationID>
+        <DestinationLLA>N9° 9' 47.90",W83° 19' 49.08",+001214.00</DestinationLLA>
+        <Descr>PX02, MRBA</Descr>
+        <DepartureName>Alvaro Berrroa</DepartureName>
+        <DestinationName>Buenos Aires De Osa</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="PX02">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N8° 46' 13.25",W82° 39' 52.44",+004419.00</WorldPosition>
+            <RunwayNumberFP>30</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>PX02</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MRSV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N8° 49' 37.15",W82° 57' 32.07",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MRSV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MRCC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N8° 36' 5.68",W82° 58' 7.47",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MRCC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MRGF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N8° 39' 14.22",W83° 10' 55.03",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MRGF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MRPJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N8° 32' 7.82",W83° 18' 3.91",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MRPJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MRSN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N8° 28' 40.73",W83° 35' 27.37",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MRSN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MRDK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N8° 43' 8.91",W83° 38' 30.78",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MRDK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MRPM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N8° 57' 3.28",W83° 28' 7.45",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MRPM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MRBA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N9° 9' 47.90",W83° 19' 49.08",+001214.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MRBA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

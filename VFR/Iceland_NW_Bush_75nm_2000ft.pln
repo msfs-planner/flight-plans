@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>BIPA to BIIS</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>BIPA</DepartureID>
+        <DepartureLLA>N65° 33' 31.90",W23° 58' 39.17",+000016.00</DepartureLLA>
+        <DestinationID>BIIS</DestinationID>
+        <DestinationLLA>N66° 3' 29.34",W23° 8' 6.96",+000008.00</DestinationLLA>
+        <Descr>BIPA, BIIS</Descr>
+        <DepartureName>Patreksfjordur</DepartureName>
+        <DestinationName>Isafjordur</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="BIPA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N65° 33' 20.97",W23° 57' 54.19",+000016.00</WorldPosition>
+            <RunwayNumberFP>14</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>BIPA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 38' 6.20",W23° 53' 21.83",+001703.40</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 39' 19.09",W23° 55' 29.14",+002197.75</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="BIOA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N65° 40' 33.44",W24° 0' 20.06",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>BIOA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 39' 28.27",W23° 54' 21.16",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 41' 39.61",W23° 42' 45.31",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP5">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 43' 7.58",W23° 40' 38.01",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP6">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 40' 4.41",W23° 30' 49.69",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="BIBD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N65° 38' 28.64",W23° 32' 46.11",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>BIBD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP7">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 42' 5.54",W23° 31' 50.25",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP8">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 45' 21.64",W23° 28' 12.73",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP9">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 47' 55.81",W23° 26' 6.66",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP10">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 50' 49.94",W23° 28' 22.61",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="BITE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N65° 52' 13.08",W23° 33' 35.19",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>BITE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP11">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 53' 54.84",W23° 27' 57.89",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP12">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N65° 56' 37.22",W23° 26' 16.43",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP13">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N66° 0' 47.79",W23° 26' 17.66",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP14">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N66° 7' 1.35",W23° 41' 29.80",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP15">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N66° 8' 13.37",W23° 38' 56.54",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP16">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N66° 7' 53.87",W23° 32' 35.87",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP17">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N66° 3' 19.40",W23° 16' 38.11",+001150.86</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="BIIS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N66° 3' 29.34",W23° 8' 6.96",+000008.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>BIIS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,107 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>MHLV to MHFA</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>MHLV</DepartureID>
+        <DepartureLLA>N14° 52' 32.78",W88° 4' 28.73",+002854.00</DepartureLLA>
+        <DestinationID>MHFA</DestinationID>
+        <DestinationLLA>N14° 35' 58.63",W86° 29' 15.75",+002119.00</DestinationLLA>
+        <Descr>MHLV, MHFA</Descr>
+        <DepartureName>Las Vegas Airport</DepartureName>
+        <DestinationName>Finca San Antonio Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="MHLV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N14° 52' 29.66",W88° 4' 25.05",+002854.00</WorldPosition>
+            <RunwayNumberFP>13</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>MHLV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N14° 54' 37.02",W88° 1' 2.87",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N14° 54' 25.08",W87° 47' 18.48",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="VTA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N14° 56' 2.53",W87° 23' 38.47",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VTA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N14° 57' 5.11",W87° 18' 2.18",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N14° 55' 36.74",W87° 12' 51.95",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP5">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N14° 52' 44.75",W87° 8' 22.51",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP6">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N14° 51' 41.43",W87° 6' 57.23",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP7">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N14° 52' 32.80",W87° 4' 53.64",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP8">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N14° 51' 53.38",W87° 2' 42.63",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP9">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N14° 49' 33.60",W87° 0' 24.20",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="MHJQ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N14° 50' 19.13",W86° 57' 43.88",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MHJQ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MHEC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N14° 27' 27.44",W87° 3' 31.76",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MHEC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MHDA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N14° 4' 49.52",W86° 38' 8.04",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MHDA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MHAZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N14° 25' 59.77",W86° 5' 12.31",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MHAZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MHFA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N14° 35' 58.63",W86° 29' 15.75",+002119.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MHFA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

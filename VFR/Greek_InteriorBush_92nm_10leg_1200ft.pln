@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LB20 to LBDB</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>LB20</DepartureID>
+        <DepartureLLA>N42° 48' 45.36",E23° 17' 14.62",+001775.00</DepartureLLA>
+        <DestinationID>LBDB</DestinationID>
+        <DestinationLLA>N42° 18' 32.82",E23° 49' 12.84",+001778.00</DestinationLLA>
+        <Descr>LB20, LBDB</Descr>
+        <DepartureName>Kumaritsa</DepartureName>
+        <DestinationName>Dolna Banya Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LB20">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 48' 42.36",E23° 18' 1.49",+001775.00</WorldPosition>
+            <RunwayNumberFP>9</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>LB20</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LBSI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 50' 38.69",E23° 0' 51.21",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LBSI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LBBR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 41' 35.56",E22° 53' 47.80",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LBBR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LB13">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 26' 38.83",E22° 59' 3.95",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LB13</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LBBB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 16' 34.95",E22° 59' 26.80",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LBBB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LB22">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 18' 40.41",E23° 14' 46.31",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LB22</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LBSA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 22' 28.82",E23° 23' 33.59",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LBSA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 23' 23.98",E23° 31' 18.76",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 26' 44.72",E23° 35' 40.78",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LBHT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 25' 18.85",E23° 46' 2.97",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LBHT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LBDB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 18' 32.82",E23° 49' 12.84",+001778.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LBDB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>MP00 to MPSM</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>MP00</DepartureID>
+        <DepartureLLA>N7° 33' 13.32",W80° 1' 17.59",+000050.00</DepartureLLA>
+        <DestinationID>MPSM</DestinationID>
+        <DestinationLLA>N8° 22' 48.25",W80° 7' 46.78",+000098.00</DestinationLLA>
+        <Descr>MP00, MPSM</Descr>
+        <DepartureName>Los Asientos</DepartureName>
+        <DestinationName>Cap Scarlett R Martinez L Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="MP00">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N7° 33' 24.94",W80° 1' 23.96",+000050.00</WorldPosition>
+            <RunwayNumberFP>33</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>MP00</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MPBE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N7° 43' 57.99",W80° 8' 25.65",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MPBE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MPGU">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N7° 51' 26.27",W80° 16' 33.93",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MPGU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MPCE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N7° 59' 16.82",W80° 24' 35.41",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MPCE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MPAU">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N8° 15' 4.81",W80° 33' 55.00",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MPAU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MPPN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N8° 30' 16.23",W80° 21' 37.68",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MPPN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MPSM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N8° 22' 48.25",W80° 7' 46.78",+000098.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MPSM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>MRLB to MRCH</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>MRLB</DepartureID>
+        <DepartureLLA>N10° 35' 51.09",W85° 31' 58.76",+000260.00</DepartureLLA>
+        <DestinationID>MRCH</DestinationID>
+        <DestinationLLA>N9° 58' 53.90",W84° 46' 21.13",+000007.00</DestinationLLA>
+        <Descr>MRLB, MRCH</Descr>
+        <DepartureName>Daniel Oduber Quiros Intl</DepartureName>
+        <DestinationName>Chacarita</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="MRLB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N10° 35' 36.20",W85° 32' 40.35",+000260.00</WorldPosition>
+            <RunwayNumberFP>25</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>MRLB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MRCO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N10° 27' 9.34",W85° 33' 39.53",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MRCO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MRCV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N10° 21' 20.51",W85° 51' 11.20",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MRCV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MRPS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N10° 18' 54.17",W85° 40' 34.84",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MRPS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MRTL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N10° 18' 35.11",W85° 27' 59.51",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MRTL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MRNC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N10° 8' 22.11",W85° 26' 44.42",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MRNC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MRNS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N9° 58' 35.20",W85° 39' 10.83",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MRNS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MRCR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N9° 52' 14.04",W85° 28' 49.58",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MRCR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MRPA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N9° 51' 7.19",W85° 14' 16.00",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MRPA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MRTR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N9° 44' 21.94",W85° 0' 58.83",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MRTR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MRDM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N9° 55' 28.67",W84° 59' 26.33",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MRDM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MRNA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N10° 5' 41.92",W85° 8' 18.89",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MRNA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MRCH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N9° 58' 53.90",W84° 46' 21.13",+000007.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MRCH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

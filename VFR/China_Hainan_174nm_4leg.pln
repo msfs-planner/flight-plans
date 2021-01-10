@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>ZJHK to ZWEN</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>ZJHK</DepartureID>
+        <DepartureLLA>N19° 56' 5.42",E110° 28' 32.88",+000070.00</DepartureLLA>
+        <DestinationID>ZWEN</DestinationID>
+        <DestinationLLA>N18° 29' 46.42",E109° 59' 17.18",+000084.00</DestinationLLA>
+        <Descr>ZJHK, ZWEN</Descr>
+        <DepartureName>Meilan</DepartureName>
+        <DestinationName>Lingshui Air Base</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="ZJHK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N19° 56' 5.24",E110° 27' 32.07",+000070.00</WorldPosition>
+            <RunwayNumberFP>27</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>ZJHK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ZJIA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N19° 41' 53.68",E109° 43' 35.16",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ZJIA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ZDAN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N18° 41' 26.23",E109° 9' 34.42",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ZDAN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ZJSY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N18° 18' 10.50",E109° 24' 44.12",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ZJSY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ZWEN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N18° 29' 46.42",E109° 59' 17.18",+000084.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ZWEN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

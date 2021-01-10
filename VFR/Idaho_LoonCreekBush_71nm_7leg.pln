@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>KCHB to A05</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>KCHB</DepartureID>
+        <DepartureLLA>N44° 39' 24.16",W114° 38' 52.12",+005548.00</DepartureLLA>
+        <DestinationID>A05</DestinationID>
+        <DestinationLLA>N45° 31' 7.51",W115° 30' 55.54",+005148.00</DestinationLLA>
+        <Descr>KCHB, A05</Descr>
+        <DepartureName>Challis Airport</DepartureName>
+        <DestinationName>Dixie USFS</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KCHB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 39' 20.04",W114° 38' 38.31",+005548.00</WorldPosition>
+            <RunwayNumberFP>10</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>KCHB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KCHI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 41' 54.47",W114° 45' 57.60",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KCHI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="C53">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 48' 29.69",W114° 48' 33.33",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>C53</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="12ID">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 58' 6.52",W114° 43' 58.48",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>12ID</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="09ID">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 6' 13.29",W114° 51' 20.48",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>09ID</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KCHL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 18' 45.82",W115° 1' 32.40",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KCHL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KGRJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 29' 13.27",W115° 19' 49.11",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KGRJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="A05">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 31' 7.51",W115° 30' 55.54",+005148.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>A05</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

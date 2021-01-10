@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LGSO to LGML</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>LGSO</DepartureID>
+        <DepartureLLA>N37° 25' 8.57",E24° 56' 59.19",+000231.00</DepartureLLA>
+        <DestinationID>LGML</DestinationID>
+        <DestinationLLA>N36° 41' 48.54",E24° 28' 33.48",+000011.00</DestinationLLA>
+        <Descr>LGSO, LGML</Descr>
+        <DepartureName>Syros</DepartureName>
+        <DestinationName>Milos</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LGSO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 25' 24.01",E24° 56' 59.69",+000231.00</WorldPosition>
+            <RunwayNumberFP>36</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>LGSO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LGMK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 26' 6.58",E25° 20' 53.67",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LGMK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LGNX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 4' 52.29",E25° 22' 5.32",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LGNX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LGPA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 0' 38.82",E25° 7' 40.92",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LGPA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LGML">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 41' 48.54",E24° 28' 33.48",+000011.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LGML</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

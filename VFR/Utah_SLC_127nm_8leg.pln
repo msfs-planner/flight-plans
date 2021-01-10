@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>U10 to KPVU</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>U10</DepartureID>
+        <DepartureLLA>N42° 6' 35.07",W111° 54' 30.71",+004723.00</DepartureLLA>
+        <DestinationID>KPVU</DestinationID>
+        <DestinationLLA>N40° 13' 8.38",W111° 43' 23.90",+004494.00</DestinationLLA>
+        <Descr>U10, KPVU</Descr>
+        <DepartureName>Preston</DepartureName>
+        <DestinationName>Provo Muni</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="U10">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 6' 22.01",W111° 54' 47.05",+004723.00</WorldPosition>
+            <RunwayNumberFP>21</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>U10</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KLGU">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 47' 26.72",W111° 51' 13.01",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KLGU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="UT90">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 35' 6.92",W111° 54' 13.99",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>UT90</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KBMC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 33' 15.58",W112° 3' 44.15",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KBMC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KOGD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 11' 41.49",W112° 0' 45.73",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KOGD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KBTF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 52' 5.43",W111° 55' 39.13",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KBTF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="U42">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 37' 10.36",W111° 59' 34.43",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>U42</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="UT10">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 21' 34.00",W112° 1' 5.37",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>UT10</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KPVU">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 13' 8.38",W111° 43' 23.90",+004494.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KPVU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

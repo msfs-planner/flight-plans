@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>SCIB to SAYZ</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>SCIB</DepartureID>
+        <DepartureLLA>S42° 18' 23.78",W73° 8' 37.62",+000150.00</DepartureLLA>
+        <DestinationID>SAYZ</DestinationID>
+        <DestinationLLA>S42° 54' 15.14",W71° 36' 2.14",+001772.00</DestinationLLA>
+        <Descr>SCIB, SAYZ</Descr>
+        <DepartureName>Butachauques Airport</DepartureName>
+        <DestinationName>Trevelin Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="SCIB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S42° 18' 33.11",W73° 8' 31.41",+000150.00</WorldPosition>
+            <RunwayNumberFP>14</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>SCIB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCYO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S42° 13' 32.07",W72° 41' 41.37",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCYO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCGN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S42° 33' 49.81",W72° 35' 57.22",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCGN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCIK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S42° 44' 38.92",W72° 58' 0.17",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCIK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCCX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S42° 50' 44.83",W72° 47' 37.35",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCCX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCEA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S43° 0' 21.62",W72° 28' 41.64",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCEA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCCW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S43° 10' 21.39",W72° 26' 4.15",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCCW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCFT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S43° 11' 19.97",W71° 51' 2.60",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCFT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SAYZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S42° 54' 15.14",W71° 36' 2.14",+001772.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SAYZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

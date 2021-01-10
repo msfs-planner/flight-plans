@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LQMO to LWOH</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>LQMO</DepartureID>
+        <DepartureLLA>N43° 17' 33.58",E17° 50' 25.59",+000164.00</DepartureLLA>
+        <DestinationID>LWOH</DestinationID>
+        <DestinationLLA>N41° 10' 47.73",E20° 44' 32.41",+002298.00</DestinationLLA>
+        <Descr>LQMO, LWOH</Descr>
+        <DepartureName>Mostar</DepartureName>
+        <DestinationName>Ohrid</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LQMO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 16' 58.46",E17° 50' 45.20",+000164.00</WorldPosition>
+            <RunwayNumberFP>15</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>LQMO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LDDU">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 33' 46.37",E18° 15' 52.01",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LDDU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LYTV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 24' 16.87",E18° 43' 23.79",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LYTV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LYPG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 21' 33.89",E19° 15' 6.78",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LYPG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LAGJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 53' 42.37",E19° 35' 55.05",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LAGJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LATI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 24' 53.01",E19° 43' 14.06",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LATI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LAKV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 46' 18.32",E19° 54' 7.72",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LAKV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LWOH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 10' 47.73",E20° 44' 32.41",+002298.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LWOH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>SVPC to SVMI</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>SVPC</DepartureID>
+        <DepartureLLA>N10° 28' 52.97",W68° 4' 55.48",+000018.00</DepartureLLA>
+        <DestinationID>SVMI</DestinationID>
+        <DestinationLLA>N10° 36' 11.56",W66° 59' 25.01",+000176.00</DestinationLLA>
+        <Descr>SVPC, SVMI</Descr>
+        <DepartureName>Gen. Bartolome Salom</DepartureName>
+        <DestinationName>Simon Bolivar Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="SVPC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N10° 28' 49.41",W68° 4' 21.89",+000018.00</WorldPosition>
+            <RunwayNumberFP>11</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>SVPC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SVVA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N10° 8' 59.22",W67° 55' 42.51",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SVVA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SVBL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N10° 10' 59.55",W67° 33' 28.19",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SVBL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SVJM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N9° 54' 25.87",W67° 22' 45.99",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SVJM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SVCC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N9° 48' 37.49",W66° 53' 36.00",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SVCC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SVMP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N10° 7' 59.48",W66° 47' 15.74",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SVMP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SVCS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N10° 17' 12.90",W66° 48' 58.13",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SVCS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SVFM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N10° 29' 5.88",W66° 50' 37.09",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SVFM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SVMI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N10° 36' 11.56",W66° 59' 25.01",+000176.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SVMI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

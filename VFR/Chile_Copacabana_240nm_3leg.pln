@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>SPZO to SLCC</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>SPZO</DepartureID>
+        <DepartureLLA>S13° 32' 3.00",W71° 57' 14.71",+010781.00</DepartureLLA>
+        <DestinationID>SLCC</DestinationID>
+        <DestinationLLA>S16° 11' 28.52",W69° 5' 44.81",+012554.00</DestinationLLA>
+        <Descr>SPZO, SLCC</Descr>
+        <DepartureName>Tnte Fap Alejandro Velazco Ast</DepartureName>
+        <DestinationName>Copacabana</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="SPZO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S13° 32' 8.61",W71° 56' 19.67",+010781.00</WorldPosition>
+            <RunwayNumberFP>10</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>SPZO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SPIY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S14° 47' 42.31",W71° 25' 54.81",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SPIY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SPJL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S15° 28' 0.70",W70° 9' 28.49",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SPJL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SLCC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S16° 11' 28.52",W69° 5' 44.81",+012554.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SLCC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

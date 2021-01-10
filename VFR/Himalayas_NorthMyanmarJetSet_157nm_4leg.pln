@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>VELR to VE48</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>VELR</DepartureID>
+        <DepartureLLA>N27° 17' 20.21",E94° 5' 25.17",+000330.00</DepartureLLA>
+        <DestinationID>VE48</DestinationID>
+        <DestinationLLA>N27° 56' 31.44",E96° 8' 4.94",+000735.00</DestinationLLA>
+        <Descr>VELR, VE48</Descr>
+        <DepartureName>Lilabari</DepartureName>
+        <DestinationName>Teju New</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="VELR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N27° 17' 43.96",E94° 5' 49.69",+000330.00</WorldPosition>
+            <RunwayNumberFP>4</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>VELR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VEZO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N27° 35' 22.97",E93° 49' 42.16",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VEZO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VEDZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N27° 59' 8.61",E94° 13' 22.80",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VEDZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VEPG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N28° 4' 8.00",E95° 20' 5.31",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VEPG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VE48">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N27° 56' 31.44",E96° 8' 4.94",+000735.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VE48</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

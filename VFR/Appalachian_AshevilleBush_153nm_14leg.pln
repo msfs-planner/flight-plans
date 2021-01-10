@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>3NR3 to 33NR</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>3NR3</DepartureID>
+        <DepartureLLA>N35° 16' 14.72",W82° 38' 23.26",+002110.00</DepartureLLA>
+        <DestinationID>33NR</DestinationID>
+        <DestinationLLA>N35° 56' 19.82",W82° 30' 56.47",+004548.00</DestinationLLA>
+        <Descr>3NR3, 33NR</Descr>
+        <DepartureName>Transylvania County</DepartureName>
+        <DestinationName>Skyline Peak</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="3NR3">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 16' 12.13",W82° 38' 38.77",+002110.00</WorldPosition>
+            <RunwayNumberFP>27</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>3NR3</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NC16">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 13' 18.68",W82° 43' 38.51",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NC16</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SC75">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 59' 51.64",W82° 44' 3.17",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SC75</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SC78">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 5' 18.16",W82° 29' 39.37",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SC78</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="08NR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 13' 3.23",W82° 25' 33.36",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>08NR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="0A7">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 18' 29.34",W82° 25' 57.92",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>0A7</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KAVL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 26' 4.18",W82° 32' 33.89",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KAVL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="0NC1">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 27' 24.10",W82° 22' 28.24",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>0NC1</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="58NC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 20' 54.46",W82° 3' 10.53",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>58NC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="69NC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 26' 0.81",W81° 50' 44.06",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>69NC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="6NR6">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 39' 44.80",W81° 52' 23.79",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>6NR6</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="9A9">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 43' 12.99",W82° 0' 35.76",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>9A9</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="7A8">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 56' 43.70",W81° 59' 46.73",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>7A8</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="2NC0">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 52' 8.62",W82° 20' 33.38",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>2NC0</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="33NR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 56' 19.82",W82° 30' 56.47",+004548.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>33NR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

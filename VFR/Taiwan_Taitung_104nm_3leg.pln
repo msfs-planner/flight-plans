@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>RCKW to RCFN</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>RCKW</DepartureID>
+        <DepartureLLA>N22° 2' 7.31",E120° 44' 7.54",+000038.00</DepartureLLA>
+        <DestinationID>RCFN</DestinationID>
+        <DestinationLLA>N22° 45' 17.51",E121° 6' 5.84",+000136.00</DestinationLLA>
+        <Descr>RCKW, RCFN</Descr>
+        <DepartureName>Hengchun</DepartureName>
+        <DestinationName>Fengnin</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="RCKW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N22° 2' 27.34",E120° 43' 48.67",+000038.00</WorldPosition>
+            <RunwayNumberFP>32</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>RCKW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RCLY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N22° 1' 42.89",E121° 32' 1.10",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RCLY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RCGI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N22° 40' 23.76",E121° 27' 59.32",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RCGI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RCFN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N22° 45' 17.51",E121° 6' 5.84",+000136.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RCFN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

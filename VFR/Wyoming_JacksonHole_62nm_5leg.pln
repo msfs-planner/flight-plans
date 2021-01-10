@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>KAFO to KJAC</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>KAFO</DepartureID>
+        <DepartureLLA>N42° 43' 5.01",W110° 56' 31.97",+006204.00</DepartureLLA>
+        <DestinationID>KJAC</DestinationID>
+        <DestinationLLA>N43° 36' 26.43",W110° 44' 15.89",+006432.00</DestinationLLA>
+        <Descr>KAFO, KJAC</Descr>
+        <DepartureName>Afton Mun</DepartureName>
+        <DestinationName>Jackson Hole</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KAFO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 42' 31.49",W110° 56' 32.08",+006204.00</WorldPosition>
+            <RunwayNumberFP>16</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>KAFO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N42° 51' 4.69",W110° 57' 31.33",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WY60">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 51' 40.64",W110° 54' 1.49",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WY60</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WY39">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 58' 8.96",W110° 57' 56.13",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WY39</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N43° 2' 57.55",W111° 2' 10.65",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="46U">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 10' 54.46",W111° 2' 18.57",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>46U</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WY31">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 24' 42.78",W110° 46' 24.79",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WY31</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KJAC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 36' 26.43",W110° 44' 15.89",+006432.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KJAC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

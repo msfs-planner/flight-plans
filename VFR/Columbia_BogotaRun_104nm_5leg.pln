@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>SKME to SKBO</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>SKME</DepartureID>
+        <DepartureLLA>N4° 13' 13.99",W74° 37' 53.84",+001028.00</DepartureLLA>
+        <DestinationID>SKBO</DestinationID>
+        <DestinationLLA>N4° 42' 5.79",W74° 8' 49.02",+008356.00</DestinationLLA>
+        <Descr>SKME, SKBO</Descr>
+        <DepartureName>Melgar AB</DepartureName>
+        <DestinationName>Eldorado Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="SKME">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N4° 13' 0.53",W74° 38' 8.01",+001028.00</WorldPosition>
+            <RunwayNumberFP>23</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>SKME</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SKGI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N4° 16' 34.61",W74° 47' 45.98",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SKGI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SKXZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N4° 15' 27.14",W75° 0' 30.60",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SKXZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SKIB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N4° 25' 17.89",W75° 8' 1.17",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SKIB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SKGK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N4° 45' 50.41",W74° 49' 43.75",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SKGK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SKBO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N4° 42' 5.79",W74° 8' 49.02",+008356.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SKBO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

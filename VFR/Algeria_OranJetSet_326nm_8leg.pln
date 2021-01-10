@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>GMMW to DA15</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>GMMW</DepartureID>
+        <DepartureLLA>N34° 59' 31.24",W3° 0' 43.51",+000583.00</DepartureLLA>
+        <DestinationID>DA15</DestinationID>
+        <DestinationLLA>N34° 53' 49.53",E0° 9' 6.49",+002416.00</DestinationLLA>
+        <Descr>GMMW, DA15</Descr>
+        <DepartureName>El Aroui</DepartureName>
+        <DestinationName>Saida</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="GMMW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 59' 21.44",W3° 1' 40.25",+000583.00</WorldPosition>
+            <RunwayNumberFP>26</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>GMMW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 0' 37.13",W2° 54' 2.31",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 11' 16.22",W2° 53' 40.69",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 13' 29.53",W2° 54' 36.30",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="GEML">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 16' 49.75",W2° 57' 24.28",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>GEML</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 12' 8.74",W2° 53' 25.85",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP5">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 7' 9.65",W2° 42' 34.50",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP6">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 55' 43.41",W2° 7' 0.00",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="GMFO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 47' 38.74",W1° 55' 54.86",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>GMFO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP7">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N34° 57' 54.11",W1° 37' 4.73",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="DAON">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 0' 48.39",W1° 27' 25.99",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>DAON</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="DAOS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 10' 19.77",W0° 35' 37.29",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>DAOS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP8">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 19' 14.62",W0° 24' 10.07",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP9">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 22' 26.17",W0° 17' 19.73",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP10">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 27' 58.55",W0° 12' 5.80",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP11">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 31' 23.83",W0° 12' 13.22",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP12">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 42' 47.04",W0° 30' 46.16",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP13">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N35° 47' 15.87",W0° 38' 21.00",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="DAOE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 44' 3.06",W0° 48' 17.14",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>DAOE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="DA14">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 54' 23.42",E0° 8' 51.66",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>DA14</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="DAOV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 12' 27.91",E0° 8' 49.84",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>DAOV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="DA15">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 53' 49.53",E0° 9' 6.49",+002416.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>DA15</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

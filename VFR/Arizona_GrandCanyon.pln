@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>40G to KGRM</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>40G</DepartureID>
+        <DepartureLLA>N35° 39' 38.20",W112° 8' 58.44",+005994.00</DepartureLLA>
+        <DestinationID>KGRM</DestinationID>
+        <DestinationLLA>N36° 23' 17.83",W112° 7' 49.39",+008742.00</DestinationLLA>
+        <Descr>40G, KGRM</Descr>
+        <DepartureName>Valle</DepartureName>
+        <DestinationName>Grand Canyon Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="40G">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 39' 7.12",W112° 8' 48.72",+005994.00</WorldPosition>
+            <RunwayNumberFP>15</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>40G</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KGRY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 51' 22.45",W112° 5' 9.35",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KGRY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="AZ40">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 0' 36.38",W112° 17' 33.70",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>AZ40</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KGRM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N36° 23' 17.83",W112° 7' 49.39",+008742.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KGRM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

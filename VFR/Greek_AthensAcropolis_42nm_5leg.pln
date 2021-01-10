@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LGMG to LGAV</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>LGMG</DepartureID>
+        <DepartureLLA>N37° 58' 49.91",E23° 21' 34.72",+000012.00</DepartureLLA>
+        <DestinationID>LGAV</DestinationID>
+        <DestinationLLA>N37° 56' 12.05",E23° 56' 40.30",+000278.00</DestinationLLA>
+        <Descr>LGMG, LGAV</Descr>
+        <DepartureName>Megara Army</DepartureName>
+        <DestinationName>Eleftherios Venizelos Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LGMG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 58' 53.97",E23° 21' 57.58",+000012.00</WorldPosition>
+            <RunwayNumberFP>8</RunwayNumberFP>
+            <RunwayDesignatorFP>RIGHT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>LGMG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LGEL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 3' 56.44",E23° 33' 13.21",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LGEL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ATHEA">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 58' 3.87",E23° 43' 3.36",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="ACPLS">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N37° 58' 18.18",E23° 43' 34.97",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LGTT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 6' 31.65",E23° 47' 0.90",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LGTT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LGAV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 56' 12.05",E23° 56' 40.30",+000278.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LGAV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

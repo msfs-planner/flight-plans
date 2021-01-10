@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>CYLW to CZAM</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>CYLW</DepartureID>
+        <DepartureLLA>N49° 57' 56.94",W119° 22' 44.89",+001393.00</DepartureLLA>
+        <DestinationID>CZAM</DestinationID>
+        <DestinationLLA>N50° 40' 57.41",W119° 13' 43.26",+001741.00</DestinationLLA>
+        <Descr>CYLW, CZAM</Descr>
+        <DepartureName>Kelowna</DepartureName>
+        <DestinationName>Salmon Arm</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="CYLW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N49° 57' 25.94",W119° 22' 40.55",+001393.00</WorldPosition>
+            <RunwayNumberFP>16</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>CYLW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CAL3">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N50° 9' 55.65",W120° 10' 16.55",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CAL3</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CAD5">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N50° 7' 22.32",W120° 44' 42.06",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CAD5</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYLY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N50° 14' 38.03",W121° 34' 9.91",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYLY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYLI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N50° 40' 26.70",W121° 53' 32.70",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYLI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CAZ5">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N50° 46' 30.17",W121° 19' 16.37",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CAZ5</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYKA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N50° 42' 8.63",W120° 26' 38.98",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYKA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CSQ2">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N50° 52' 45.37",W119° 35' 26.46",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CSQ2</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CZAM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N50° 40' 57.41",W119° 13' 43.26",+001741.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CZAM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>TAPH to TQPF</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>TAPH</DepartureID>
+        <DepartureLLA>N17° 38' 9.19",W61° 49' 48.38",+000015.00</DepartureLLA>
+        <DestinationID>TQPF</DestinationID>
+        <DestinationLLA>N18° 12' 17.33",W63° 3' 13.96",+000098.00</DestinationLLA>
+        <Descr>TAPH, TQPF</Descr>
+        <DepartureName>Codrington</DepartureName>
+        <DestinationName>Wallblake</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="TAPH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N17° 38' 9.87",W61° 49' 37.71",+000015.00</WorldPosition>
+            <RunwayNumberFP>10</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>TAPH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="COCO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N17° 33' 20.42",W61° 45' 51.02",+002002.73</WorldPosition>
+            <ICAO>
+                <ICAOIdent>COCO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TAPA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N17° 8' 9.72",W61° 47' 37.87",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>TAPA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TRPG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N16° 47' 28.82",W62° 11' 36.27",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>TRPG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TKPN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N17° 12' 20.64",W62° 35' 23.81",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>TKPN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TKPK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N17° 18' 40.61",W62° 43' 6.77",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>TKPK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TNCE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N17° 29' 47.51",W62° 58' 46.09",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>TNCE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TNCS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N17° 38' 45.75",W63° 13' 11.28",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>TNCS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TFFJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N17° 54' 15.81",W62° 50' 36.81",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>TFFJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TNCM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N18° 2' 27.37",W63° 6' 32.31",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>TNCM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TFFG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N18° 5' 59.95",W63° 2' 49.49",+002178.73</WorldPosition>
+            <ICAO>
+                <ICAOIdent>TFFG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="TQPF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N18° 12' 17.33",W63° 3' 13.96",+000098.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>TQPF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>SV80 to SVCN</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>SV80</DepartureID>
+        <DepartureLLA>N6° 18' 10.42",W63° 14' 10.85",+001163.00</DepartureLLA>
+        <DestinationID>SVCN</DestinationID>
+        <DestinationLLA>N6° 13' 55.01",W62° 51' 17.60",+001320.00</DestinationLLA>
+        <Descr>SV80, SVCN</Descr>
+        <DepartureName>Guasipati Airport</DepartureName>
+        <DestinationName>Canaima</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="SV80">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N6° 18' 7.74",W63° 14' 7.65",+001163.00</WorldPosition>
+            <RunwayNumberFP>14</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>SV80</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SV78">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N6° 2' 41.61",W63° 12' 43.12",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SV78</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SVVZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N5° 28' 36.08",W63° 37' 11.65",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SVVZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SV30">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N6° 3' 35.91",W63° 47' 23.81",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SV30</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SV31">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N6° 20' 35.37",W63° 20' 0.11",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SV31</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SVTE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N6° 29' 5.45",W62° 53' 38.28",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SVTE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SVCN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N6° 13' 55.01",W62° 51' 17.60",+001320.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SVCN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

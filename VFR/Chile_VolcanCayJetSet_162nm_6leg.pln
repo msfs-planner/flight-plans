@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>SCMA to SCAS</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>SCMA</DepartureID>
+        <DepartureLLA>S43° 47' 12.25",W72° 57' 17.65",+000010.00</DepartureLLA>
+        <DestinationID>SCAS</DestinationID>
+        <DestinationLLA>S45° 23' 56.86",W72° 40' 13.06",+000032.00</DestinationLLA>
+        <Descr>SCMA, SCAS</Descr>
+        <DepartureName>Puerto Marín Balmaceda Airport</DepartureName>
+        <DestinationName>Cabo Juan Roman</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="SCMA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S43° 47' 15.35",W72° 57' 4.03",+000010.00</WorldPosition>
+            <RunwayNumberFP>8</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>SCMA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCOO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S44° 5' 51.11",W73° 5' 46.78",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCOO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCLJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S43° 58' 40.50",W72° 24' 47.38",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCLJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCPH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S44° 23' 1.09",W72° 35' 38.05",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCPH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCPK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S44° 45' 32.64",W72° 41' 52.35",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCPK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S45° 4' 43.87",W73° 4' 31.77",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCIH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S45° 8' 56.22",W73° 30' 47.38",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCIH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCAS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S45° 23' 56.86",W72° 40' 13.06",+000032.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCAS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

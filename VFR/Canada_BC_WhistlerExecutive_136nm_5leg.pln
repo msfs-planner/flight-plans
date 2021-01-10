@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>CCS6 to CYPS</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>CCS6</DepartureID>
+        <DepartureLLA>N49° 39' 55.79",W125° 6' 7.11",+000500.00</DepartureLLA>
+        <DestinationID>CYPS</DestinationID>
+        <DestinationLLA>N50° 18' 8.04",W122° 44' 16.03",+000670.00</DestinationLLA>
+        <Descr>CCS6, CYPS</Descr>
+        <DepartureName>Courtenay (Smit Field)</DepartureName>
+        <DestinationName>Pemberton</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="CCS6">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N49° 40' 0.14",W125° 5' 53.21",+000500.00</WorldPosition>
+            <RunwayNumberFP>5</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>CCS6</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYGB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N49° 41' 38.50",W124° 31' 4.13",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYGB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CAT4">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N49° 20' 14.18",W124° 23' 37.95",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CAT4</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CAP3">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N49° 27' 39.91",W123° 43' 4.53",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CAP3</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYSE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N49° 46' 55.66",W123° 9' 42.96",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYSE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYPS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N50° 18' 8.04",W122° 44' 16.03",+000670.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYPS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

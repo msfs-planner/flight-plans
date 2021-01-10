@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>U54 to C64</Title>
+        <FPType>VFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>10500</CruisingAlt>
+        <DepartureID>U54</DepartureID>
+        <DepartureLLA>N44° 58' 38.62",W114° 44' 5.86",+003626.00</DepartureLLA>
+        <DestinationID>C64</DestinationID>
+        <DestinationLLA>N46° 39' 58.30",W115° 4' 23.89",+003505.00</DestinationLLA>
+        <Descr>U54, C64</Descr>
+        <DepartureName>Bernard USFS</DepartureName>
+        <DestinationName>Cayuse Creek /USFS/</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="U54">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 58' 46.91",W114° 44' 5.40",+003626.00</WorldPosition>
+            <RunwayNumberFP>36</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>U54</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="85U">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 6' 17.71",W114° 47' 58.53",+006267.20</WorldPosition>
+            <ICAO>
+                <ICAOIdent>85U</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="I08">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 8' 38.64",W114° 55' 42.01",+008226.81</WorldPosition>
+            <ICAO>
+                <ICAOIdent>I08</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="U60">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 7' 57.69",W115° 19' 14.91",+010500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>U60</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="C48">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 23' 49.40",W115° 29' 6.06",+010500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>C48</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="A05">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 31' 7.51",W115° 30' 55.54",+010500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>A05</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="75C">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 43' 46.27",W115° 31' 39.95",+010500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>75C</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="S90">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 49' 16.09",W115° 26' 22.61",+010500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>S90</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="2U5">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N45° 59' 22.72",W114° 50' 28.30",+010500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>2U5</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="1U1">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 7' 31.96",W114° 55' 19.60",+010500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>1U1</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="S92">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 19' 47.76",W115° 3' 46.21",+010168.22</WorldPosition>
+            <ICAO>
+                <ICAOIdent>S92</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="C64">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N46° 39' 58.30",W115° 4' 23.89",+003505.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>C64</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

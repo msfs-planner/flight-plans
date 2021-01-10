@@ -1,0 +1,135 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>KNET to 1S1</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>10000</CruisingAlt>
+        <DepartureID>KNET</DepartureID>
+        <DepartureLLA>N48° 19' 22.09",W117° 17' 41.55",+002042.00</DepartureLLA>
+        <DestinationID>1S1</DestinationID>
+        <DestinationLLA>N48° 59' 25.06",W116° 30' 7.25",+001753.00</DestinationLLA>
+        <Descr>KNET, 1S1</Descr>
+        <DepartureName>Newport Airport</DepartureName>
+        <DestinationName>Eckhart Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KNET">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 19' 42.62",W117° 17' 55.31",+002042.00</WorldPosition>
+            <RunwayNumberFP>32</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>KNET</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ION">
+            <ATCWaypointType>NDB</ATCWaypointType>
+            <WorldPosition>N48° 42' 36.68",W117° 24' 48.87",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>K1</ICAORegion>
+                <ICAOIdent>ION</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 45' 54.86",W117° 18' 19.40",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="09S">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 50' 27.06",W117° 17' 2.36",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>09S</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 52' 4.36",W117° 16' 52.88",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP3">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 54' 56.63",W117° 14' 14.68",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP4">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 55' 36.42",W117° 13' 3.60",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP5">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 56' 3.22",W117° 12' 17.87",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP6">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 56' 57.61",W117° 10' 41.46",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP7">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 58' 6.59",W117° 9' 44.61",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP8">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N48° 59' 45.55",W117° 9' 42.14",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP9">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N49° 1' 14.73",W117° 9' 34.72",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP10">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N49° 3' 43.81",W117° 5' 22.59",+010000.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP11">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N49° 3' 30.86",W117° 2' 27.08",+009942.33</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP12">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N49° 5' 24.21",W117° 0' 45.73",+009315.52</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP13">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N49° 5' 42.00",W116° 57' 50.22",+008760.60</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP14">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N49° 6' 12.77",W116° 56' 8.88",+008411.60</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP15">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N49° 6' 27.32",W116° 51' 54.27",+007613.23</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP16">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N49° 7' 48.22",W116° 48' 43.93",+006904.46</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP17">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N49° 8' 48.06",W116° 45' 36.06",+006252.19</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP18">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N49° 8' 28.65",W116° 42' 40.56",+005696.60</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP19">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N49° 8' 31.88",W116° 39' 10.44",+005040.55</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP20">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N49° 6' 40.27",W116° 34' 36.06",+004031.77</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP21">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N49° 4' 46.96",W116° 32' 20.10",+003344.20</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="1S1">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 59' 25.06",W116° 30' 7.25",+001753.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>1S1</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

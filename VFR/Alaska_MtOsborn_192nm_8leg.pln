@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>PFEL to PAIW</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>PFEL</DepartureID>
+        <DepartureLLA>N64° 36' 36.96",W162° 16' 35.91",+000143.00</DepartureLLA>
+        <DestinationID>PAIW</DestinationID>
+        <DestinationLLA>N65° 37' 21.35",W168° 5' 41.95",+000021.00</DestinationLLA>
+        <Descr>PFEL, PAIW</Descr>
+        <DepartureName>Elim</DepartureName>
+        <DestinationName>Wales</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="PFEL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N64° 36' 53.55",W162° 16' 14.43",+000143.00</WorldPosition>
+            <RunwayNumberFP>1</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>PFEL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PAGL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N64° 33' 1.63",W163° 0' 25.82",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAGL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PAWM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N64° 41' 20.96",W163° 24' 45.85",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAWM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PAOM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N64° 30' 45.07",W165° 26' 40.21",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAOM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="3Z1">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N64° 49' 57.37",W166° 8' 1.37",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>3Z1</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PATE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N65° 14' 25.37",W166° 20' 21.57",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PATE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PFKT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N65° 19' 53.14",W166° 27' 58.38",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PFKT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PAPC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N65° 15' 12.55",W166° 51' 27.76",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAPC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PAIW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N65° 37' 21.35",W168° 5' 41.95",+000021.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PAIW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

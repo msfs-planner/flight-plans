@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>SCKD to SAZZ</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>SCKD</DepartureID>
+        <DepartureLLA>S40° 28' 4.45",W72° 41' 30.60",+000517.00</DepartureLLA>
+        <DestinationID>SAZZ</DestinationID>
+        <DestinationLLA>S40° 1' 45.00",W71° 43' 16.65",+001996.00</DestinationLLA>
+        <Descr>SCKD, SAZZ</Descr>
+        <DepartureName>El Cardal</DepartureName>
+        <DestinationName>San Martin De Los Andes Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="SCKD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S40° 28' 2.54",W72° 41' 5.28",+000517.00</WorldPosition>
+            <RunwayNumberFP>7</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>SCKD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCXR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S40° 19' 17.51",W72° 13' 26.81",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCXR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCGF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S40° 8' 27.47",W72° 17' 0.82",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCGF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCFU">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S40° 3' 56.67",W72° 32' 23.89",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCFU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCVG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S39° 49' 48.10",W72° 29' 13.86",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCVG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCPG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S39° 39' 19.47",W72° 21' 31.00",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCPG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCCM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S39° 49' 28.84",W72° 4' 56.30",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCCM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SAZZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S40° 1' 45.00",W71° 43' 16.65",+001996.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SAZZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>U70 to ID59</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>U70</DepartureID>
+        <DepartureLLA>N44° 29' 18.21",W116° 0' 33.01",+004742.00</DepartureLLA>
+        <DestinationID>ID59</DestinationID>
+        <DestinationLLA>N43° 42' 2.49",W116° 19' 27.19",+002680.00</DestinationLLA>
+        <Descr>U70, ID59</Descr>
+        <DepartureName>Cascade</DepartureName>
+        <DestinationName>Floating Feather</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="U70">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 29' 32.38",W116° 0' 53.23",+004742.00</WorldPosition>
+            <RunwayNumberFP>30</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>U70</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ID35">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 14' 21.25",W116° 8' 40.83",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ID35</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="U88">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 4' 1.49",W115° 55' 52.78",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>U88</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="22ID">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 56' 40.64",W115° 56' 26.34",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>22ID</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="U98">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 49' 24.95",W115° 50' 41.32",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>U98</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="20ID">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 43' 17.57",W116° 0' 20.90",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>20ID</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="14ID">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 40' 15.89",W116° 12' 39.35",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>14ID</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ID59">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 42' 2.49",W116° 19' 27.19",+002680.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ID59</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

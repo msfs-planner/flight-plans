@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>CYJM to CAH5</Title>
+        <FPType>IFR</FPType>
+        <RouteType>LowAlt</RouteType>
+        <CruisingAlt>10000</CruisingAlt>
+        <DepartureID>CYJM</DepartureID>
+        <DepartureLLA>N54° 24' 3.18",W124° 16' 13.75",+002364.00</DepartureLLA>
+        <DestinationID>CAH5</DestinationID>
+        <DestinationLLA>N55° 7' 13.00",W125° 36' 52.92",+002383.00</DestinationLLA>
+        <Descr>CYJM, CAH5</Descr>
+        <DepartureName>Perison</DepartureName>
+        <DestinationName>Leo Creek</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="CYJM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N54° 23' 51.16",W124° 15' 49.71",+002364.00</WorldPosition>
+            <RunwayNumberFP>11</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>CYJM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CBZ9">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N54° 0' 52.13",W124° 46' 16.82",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CBZ9</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYPZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N54° 22' 35.18",W125° 57' 4.93",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYPZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CAM5">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N54° 26' 25.86",W126° 46' 48.68",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CAM5</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CYYD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N54° 49' 31.68",W127° 10' 58.44",+010000.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CYYD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="CAH5">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N55° 7' 13.00",W125° 36' 52.92",+002383.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>CAH5</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>KMCO to KORL</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>KMCO</DepartureID>
+        <DepartureLLA>N28° 26' 53.03",W81° 19' 20.29",+000090.00</DepartureLLA>
+        <DestinationID>KORL</DestinationID>
+        <DestinationLLA>N28° 32' 44.31",W81° 20' 0.97",+000107.00</DestinationLLA>
+        <Descr>KMCO, KORL</Descr>
+        <DepartureName>Orlando Intl</DepartureName>
+        <DestinationName>Executive</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KMCO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N28° 25' 45.80",W81° 18' 32.39",+000090.00</WorldPosition>
+            <RunwayNumberFP>18</RunwayNumberFP>
+            <RunwayDesignatorFP>LEFT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>KMCO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KISM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N28° 17' 23.54",W81° 26' 13.63",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KISM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="EPCOT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 22' 23.52",W81° 32' 57.43",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="DISNY">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N28° 25' 8.79",W81° 34' 53.31",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="KORL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N28° 32' 44.31",W81° 20' 0.97",+000107.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KORL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

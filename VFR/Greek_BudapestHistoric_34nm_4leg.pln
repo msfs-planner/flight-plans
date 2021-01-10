@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LHDA to LHFH</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>LHDA</DepartureID>
+        <DepartureLLA>N47° 29' 58.10",E19° 30' 28.04",+000570.00</DepartureLLA>
+        <DestinationID>LHFH</DestinationID>
+        <DestinationLLA>N47° 29' 10.15",E18° 54' 54.74",+000681.00</DestinationLLA>
+        <Descr>LHDA, LHFH</Descr>
+        <DepartureName>Dány</DepartureName>
+        <DestinationName>Farkashegy Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LHDA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 30' 3.43",E19° 30' 17.99",+000570.00</WorldPosition>
+            <RunwayNumberFP>30</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>LHDA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LHGD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 34' 19.43",E19° 20' 14.70",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LHGD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LHDK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 36' 46.03",E19° 8' 36.75",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LHDK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LHHH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 33' 5.41",E18° 58' 35.08",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LHHH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 32' 19.11",E19° 0' 35.77",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="HBGFT">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N47° 29' 13.27",E19° 2' 45.52",+002431.80</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="LHFH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N47° 29' 10.15",E18° 54' 54.74",+000681.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LHFH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

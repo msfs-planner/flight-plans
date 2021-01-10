@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>SKVT to SKGZ</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>SKVT</DepartureID>
+        <DepartureLLA>N3° 19' 33.76",W75° 11' 3.35",+001218.00</DepartureLLA>
+        <DestinationID>SKGZ</DestinationID>
+        <DestinationLLA>N2° 8' 48.96",W75° 41' 37.25",+002665.00</DestinationLLA>
+        <Descr>SKVT, SKGZ</Descr>
+        <DepartureName>Sinai Airport</DepartureName>
+        <DestinationName>La Jagua Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="SKVT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N3° 19' 32.05",W75° 11' 12.47",+001218.00</WorldPosition>
+            <RunwayNumberFP>27</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>SKVT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SKBT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N3° 14' 42.07",W75° 14' 45.53",+002500.00</WorldPosition>
+            <RunwayNumberFP>3</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>SKBT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SKUT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N3° 3' 58.82",W75° 10' 53.71",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SKUT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SKNT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N2° 50' 49.79",W75° 18' 47.39",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SKNT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SKDG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N2° 37' 26.55",W75° 21' 45.42",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SKDG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SKUV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N2° 27' 17.42",W75° 44' 4.88",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SKUV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SKGN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N2° 18' 7.61",W75° 38' 28.61",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SKGN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SKGZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N2° 8' 48.96",W75° 41' 37.25",+002665.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SKGZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

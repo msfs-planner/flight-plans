@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>KSLK to KBTV</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>KSLK</DepartureID>
+        <DepartureLLA>N44° 22' 49.61",W74° 12' 47.07",+001645.00</DepartureLLA>
+        <DestinationID>KBTV</DestinationID>
+        <DestinationLLA>N44° 28' 16.76",W73° 9' 10.96",+000325.00</DestinationLLA>
+        <Descr>KSLK, KBTV</Descr>
+        <DepartureName>Adirondack Rgnl</DepartureName>
+        <DestinationName>Burlington Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="KSLK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 23' 4.52",W74° 12' 22.37",+001645.00</WorldPosition>
+            <RunwayNumberFP>5</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>KSLK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KLKP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 15' 52.13",W73° 57' 42.56",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KLKP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="1I1">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 13' 11.76",W73° 47' 16.97",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>1I1</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="12NK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 9' 21.65",W73° 25' 54.46",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>12NK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VT14">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 2' 41.62",W73° 11' 22.91",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VT14</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="0B7">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 7' 2.55",W72° 49' 37.32",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>0B7</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VT49">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 13' 48.51",W72° 47' 30.40",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VT49</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VT01">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 16' 56.13",W72° 56' 15.11",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VT01</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="07VT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 26' 43.39",W72° 54' 59.06",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>07VT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VT45">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 31' 4.54",W72° 58' 46.89",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VT45</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KBTV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N44° 28' 16.76",W73° 9' 10.96",+000325.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KBTV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
