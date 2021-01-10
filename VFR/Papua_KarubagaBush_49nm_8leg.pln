@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>WANW to WALF</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>WANW</DepartureID>
+        <DepartureLLA>S4° 18' 48.54",E138° 31' 15.64",+007352.00</DepartureLLA>
+        <DestinationID>WALF</DestinationID>
+        <DestinationLLA>S4° 15' 46.13",E137° 53' 33.28",+003288.00</DestinationLLA>
+        <Descr>WANW, WALF</Descr>
+        <DepartureName>Karubaga Airport</DepartureName>
+        <DestinationName>Alama Airstrip</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="WANW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 18' 43.50",E138° 31' 10.20",+007352.00</WorldPosition>
+            <RunwayNumberFP>31</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>WANW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WANU">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 14' 18.05",E138° 27' 56.13",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WANU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WALD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 13' 42.49",E138° 23' 37.57",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WALD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WANN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 14' 33.20",E138° 19' 54.54",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WANN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WANO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 19' 8.64",E138° 21' 6.83",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WANO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WANP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 18' 32.43",E138° 14' 47.31",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WANP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WANQ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 13' 32.34",E138° 11' 41.48",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WANQ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WANV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 16' 53.47",E138° 4' 2.58",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WANV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WALF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 15' 46.13",E137° 53' 33.28",+003288.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WALF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

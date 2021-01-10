@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>ZLIL to ZJII</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>ZLIL</DepartureID>
+        <DepartureLLA>N39° 27' 32.00",E116° 0' 26.09",+000117.00</DepartureLLA>
+        <DestinationID>ZJII</DestinationID>
+        <DestinationLLA>N40° 30' 9.97",E116° 6' 27.41",+001631.00</DestinationLLA>
+        <Descr>ZLIL, ZJII</Descr>
+        <DepartureName>Liulihe Airport</DepartureName>
+        <DestinationName>Yongning Air Base</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="ZLIL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 27' 23.88",E116° 0' 2.20",+000117.00</WorldPosition>
+            <RunwayNumberFP>21</RunwayNumberFP>
+            <RunwayDesignatorFP>LEFT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>ZLIL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ZLII">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 45' 27.80",E116° 7' 29.75",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ZLII</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ZBBB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N39° 57' 31.52",E116° 15' 24.44",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ZBBB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ZSHH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 8' 58.01",E116° 19' 23.95",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ZSHH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ZCHL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 17' 8.17",E116° 13' 57.57",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ZCHL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ZKAA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 22' 45.28",E115° 56' 14.56",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ZKAA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ZJII">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 30' 9.97",E116° 6' 27.41",+001631.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ZJII</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>WAXY to WAXA</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>WAXY</DepartureID>
+        <DepartureLLA>S4° 2' 47.59",E139° 21' 30.95",+005472.00</DepartureLLA>
+        <DestinationID>WAXA</DestinationID>
+        <DestinationLLA>S4° 11' 18.03",E139° 20' 32.17",+006296.00</DestinationLLA>
+        <Descr>WAXY, WAXA</Descr>
+        <DepartureName>Wurigelebur Airport</DepartureName>
+        <DestinationName>Prongkoli Airstrip</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="WAXY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 2' 50.74",E139° 21' 26.61",+005472.00</WorldPosition>
+            <RunwayNumberFP>23</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>WAXY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAXH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S3° 59' 36.18",E139° 29' 31.49",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAXH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAZE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S3° 59' 43.47",E139° 40' 19.35",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAZE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAXZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 1' 52.43",E139° 47' 11.01",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAXZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAYA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 3' 38.12",E139° 44' 50.99",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAYA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAWT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 7' 0.13",E139° 38' 50.36",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAWT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAYT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 7' 37.88",E139° 31' 52.94",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAYT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAWV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 8' 6.02",E139° 22' 39.89",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAWV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAXA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 11' 18.03",E139° 20' 32.17",+006296.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAXA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>OAIX to OPMH</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>OAIX</DepartureID>
+        <DepartureLLA>N34° 55' 55.03",E69° 15' 22.71",+004858.00</DepartureLLA>
+        <DestinationID>OPMH</DestinationID>
+        <DestinationLLA>N32° 42' 1.79",E69° 49' 50.37",+006804.00</DestinationLLA>
+        <Descr>OAIX, OPMH</Descr>
+        <DepartureName>Bagram</DepartureName>
+        <DestinationName>Miran Shah Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="OAIX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 56' 44.87",E69° 15' 57.46",+004858.00</WorldPosition>
+            <RunwayNumberFP>3</RunwayNumberFP>
+            <RunwayDesignatorFP>RIGHT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>OAIX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="OAKB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 33' 57.03",E69° 12' 44.70",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>OAKB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="OAMU">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 10' 19.45",E69° 2' 8.24",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>OAMU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="OAKA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 37' 40.48",E69° 14' 14.68",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>OAKA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="OAKS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 19' 58.42",E69° 57' 0.35",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>OAKS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="OPMN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 1' 11.58",E70° 3' 42.25",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>OPMN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="OPMH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 42' 1.79",E69° 49' 50.37",+006804.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>OPMH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

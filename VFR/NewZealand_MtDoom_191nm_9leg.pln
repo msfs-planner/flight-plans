@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>NZUN to NZVR</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>NZUN</DepartureID>
+        <DepartureLLA>S37° 1' 19.21",E175° 51' 37.38",+000037.00</DepartureLLA>
+        <DestinationID>NZVR</DestinationID>
+        <DestinationLLA>S39° 41' 8.98",E175° 47' 25.18",+001521.00</DestinationLLA>
+        <Descr>NZUN, NZVR</Descr>
+        <DepartureName>Pauanui Beach</DepartureName>
+        <DestinationName>Taihape Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="NZUN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S37° 1' 15.41",E175° 51' 49.24",+000037.00</WorldPosition>
+            <RunwayNumberFP>5</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>NZUN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZWV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S37° 25' 48.73",E175° 57' 7.79",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZWV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZTG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S37° 40' 22.21",E176° 11' 57.02",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZTG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZRR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S37° 56' 26.62",E176° 8' 28.23",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZRR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZRO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S38° 6' 23.46",E176° 19' 1.48",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZRO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZTO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S38° 14' 18.82",E175° 53' 40.31",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZTO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZAP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S38° 44' 30.19",E176° 4' 55.26",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZAP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZTN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S38° 58' 4.84",E175° 48' 50.22",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZTN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S39° 12' 36.64",E175° 36' 59.46",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZRU">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S39° 26' 35.12",E175° 39' 21.73",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZRU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZVR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S39° 41' 8.98",E175° 47' 25.18",+001521.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZVR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>UADD to UAFZ</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>UADD</DepartureID>
+        <DepartureLLA>N42° 51' 47.21",E71° 17' 28.18",+002165.00</DepartureLLA>
+        <DestinationID>UAFZ</DestinationID>
+        <DestinationLLA>N41° 24' 36.85",E74° 2' 41.77",+004166.00</DestinationLLA>
+        <Descr>UADD, UAFZ</Descr>
+        <DepartureName>Aulie-Ata</DepartureName>
+        <DestinationName>Kazarman Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="UADD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 51' 13.51",E71° 18' 10.83",+002165.00</WorldPosition>
+            <RunwayNumberFP>13</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>UADD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="UAPO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 42' 56.42",E71° 42' 34.65",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>UAPO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="UATL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 30' 20.53",E72° 15' 50.29",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>UATL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="UATO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 52' 40.88",E72° 51' 46.60",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>UATO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="UASV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 9' 58.34",E73° 56' 13.08",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>UASV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="UAFZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 24' 36.85",E74° 2' 41.77",+004166.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>UAFZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

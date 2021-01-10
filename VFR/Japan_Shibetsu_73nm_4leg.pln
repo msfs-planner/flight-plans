@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>RJKT to RJCN</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>RJKT</DepartureID>
+        <DepartureLLA>N43° 46' 47.41",E143° 43' 34.42",+000607.00</DepartureLLA>
+        <DestinationID>RJCN</DestinationID>
+        <DestinationLLA>N43° 34' 38.75",E144° 57' 35.20",+000223.00</DestinationLLA>
+        <Descr>RJKT, RJCN</Descr>
+        <DepartureName>Kitami Airport</DepartureName>
+        <DestinationName>Nakashibetsu</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="RJKT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 46' 48.08",E143° 43' 50.68",+000607.00</WorldPosition>
+            <RunwayNumberFP>10</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>RJKT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RJCM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 52' 50.28",E144° 9' 50.63",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RJCM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RJBO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 28' 47.11",E144° 26' 1.76",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RJBO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RJCS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 25' 29.16",E144° 44' 29.35",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RJCS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RJCN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 34' 38.75",E144° 57' 35.20",+000223.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RJCN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

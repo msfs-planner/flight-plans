@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>OMFJ to OMDB</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>OMFJ</DepartureID>
+        <DepartureLLA>N25° 6' 20.86",E56° 20' 27.71",+000091.00</DepartureLLA>
+        <DestinationID>OMDB</DestinationID>
+        <DestinationLLA>N25° 15' 4.62",E55° 22' 14.95",+000028.00</DestinationLLA>
+        <Descr>OMFJ, OMDB</Descr>
+        <DepartureName>Fujairah Intl</DepartureName>
+        <DestinationName>Dubai Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="OMFJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 6' 43.71",E56° 19' 26.84",+000091.00</WorldPosition>
+            <RunwayNumberFP>29</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>OMFJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="OMKH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 17' 10.50",E56° 20' 34.00",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>OMKH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="OMDI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 36' 50.94",E56° 14' 40.84",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>OMDI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="OMDH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 51' 45.48",E56° 17' 11.20",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>OMDH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="OOKH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 56' 59.60",E56° 25' 6.80",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>OOKH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="OODI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N26° 22' 4.31",E56° 21' 24.62",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>OODI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="OOKB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N26° 10' 18.37",E56° 14' 26.34",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>OOKB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="OMRS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 45' 10.44",E55° 57' 33.02",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>OMRS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="OMRK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 36' 48.09",E55° 56' 19.57",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>OMRK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="OMSJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 19' 49.57",E55° 31' 7.03",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>OMSJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="BRKFA">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 11' 49.94",E55° 16' 26.89",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="PMJMR">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 7' 13.65",E55° 7' 48.72",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="FTSE2">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 13' 25.58",E55° 9' 48.41",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="FTSE1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 13' 35.66",E55° 9' 54.90",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="DBISL">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>N25° 13' 30.16",E55° 10' 9.40",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="OMDB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N25° 15' 4.62",E55° 22' 14.95",+000028.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>OMDB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

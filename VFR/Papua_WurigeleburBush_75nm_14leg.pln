@@ -1,0 +1,127 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>WAXR to WAYN</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>WAXR</DepartureID>
+        <DepartureLLA>S4° 20' 42.95",E138° 45' 30.43",+007912.00</DepartureLLA>
+        <DestinationID>WAYN</DestinationID>
+        <DestinationLLA>S4° 34' 49.72",E139° 21' 16.45",+002775.00</DestinationLLA>
+        <Descr>WAXR, WAYN</Descr>
+        <DepartureName>Wurigelebur Airport</DepartureName>
+        <DestinationName>Wurigelebur Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="WAXR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 20' 45.07",E138° 45' 25.16",+007912.00</WorldPosition>
+            <RunwayNumberFP>25</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>WAXR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAXT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 26' 35.79",E138° 45' 39.72",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAXT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAXV">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 33' 41.49",E138° 54' 52.82",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAXV</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAXS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 34' 15.92",E138° 59' 12.81",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAXS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAXC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 27' 57.94",E138° 56' 34.67",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAXC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAYQ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 23' 43.70",E139° 1' 48.00",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAYQ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAYM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 22' 35.68",E139° 5' 0.81",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAYM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAYF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 20' 5.49",E139° 6' 39.24",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAYF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAXD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 20' 45.20",E139° 10' 44.07",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAXD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAYI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 24' 1.80",E139° 12' 2.08",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAYI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAYH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 21' 3.02",E139° 14' 59.89",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAYH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAYC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 18' 51.86",E139° 19' 46.41",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAYC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAYP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 26' 30.37",E139° 18' 34.51",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAYP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAYJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 33' 4.32",E139° 20' 11.46",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAYJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAYN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 34' 49.72",E139° 21' 16.45",+002775.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAYN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

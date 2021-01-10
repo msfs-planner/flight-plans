@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>NZMW to NZQN</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>NZMW</DepartureID>
+        <DepartureLLA>S44° 13' 53.77",E169° 13' 51.01",+001067.00</DepartureLLA>
+        <DestinationID>NZQN</DestinationID>
+        <DestinationLLA>S45° 1' 10.56",E168° 44' 40.77",+001164.00</DestinationLLA>
+        <Descr>NZMW, NZQN</Descr>
+        <DepartureName>Makarora Airstrip</DepartureName>
+        <DestinationName>Queenstown</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="NZMW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S44° 13' 43.99",E169° 13' 55.02",+001067.00</WorldPosition>
+            <RunwayNumberFP>36</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>NZMW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZHT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S43° 51' 55.71",E169° 2' 28.48",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZHT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZWE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S43° 59' 50.65",E168° 39' 41.56",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZWE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZQE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S44° 11' 4.74",E168° 11' 32.52",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZQE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZMJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S44° 21' 58.18",E168° 0' 57.46",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZMJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZMF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S44° 40' 26.08",E167° 55' 19.46",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZMF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZGY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S44° 52' 17.42",E168° 23' 52.40",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZGY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZQN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S45° 1' 10.56",E168° 44' 40.77",+001164.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZQN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

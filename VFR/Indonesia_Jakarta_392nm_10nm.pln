@@ -1,0 +1,100 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>WARI to WIII</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>WARI</DepartureID>
+        <DepartureLLA>S7° 36' 12.76",E111° 25' 56.68",+000361.00</DepartureLLA>
+        <DestinationID>WIII</DestinationID>
+        <DestinationLLA>S6° 7' 11.33",E106° 39' 26.70",+000026.00</DestinationLLA>
+        <Descr>WARI, WIII</Descr>
+        <DepartureName>Iswahyudi</DepartureName>
+        <DestinationName>Soekarno-Hatta Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="WARI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S7° 36' 57.02",E111° 26' 2.67",+000361.00</WorldPosition>
+            <RunwayNumberFP>17</RunwayNumberFP>
+            <RunwayDesignatorFP>RIGHT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>WARI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAHQ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S7° 30' 57.82",E110° 45' 25.76",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAHQ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAHH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S7° 47' 17.39",E110° 25' 54.92",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAHH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAPM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S7° 27' 43.55",E109° 25' 4.55",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAPM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAHL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S7° 38' 42.03",E109° 2' 2.33",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAHL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WICM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S7° 20' 47.38",E108° 14' 45.80",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WICM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WICD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S6° 45' 24.98",E108° 32' 19.99",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WICD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WWIQ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S6° 38' 57.53",E108° 10' 1.91",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WWIQ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WICC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S6° 54' 2.23",E107° 34' 34.25",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WICC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WACU">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S6° 45' 22.75",E106° 48' 42.17",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WACU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WIII">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S6° 7' 11.33",E106° 39' 26.70",+000026.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WIII</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

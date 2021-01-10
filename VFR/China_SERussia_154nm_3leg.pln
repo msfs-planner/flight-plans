@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>UHNM to UHNH</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>UHNM</DepartureID>
+        <DepartureLLA>N51° 43' 20.60",E140° 14' 7.27",+000089.00</DepartureLLA>
+        <DestinationID>UHNH</DestinationID>
+        <DestinationLLA>N52° 58' 32.27",E138° 49' 5.93",+000053.00</DestinationLLA>
+        <Descr>UHNM, UHNH</Descr>
+        <DepartureName>De-Kastri Airport</DepartureName>
+        <DestinationName>Mago Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="UHNM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N51° 43' 28.80",E140° 13' 42.60",+000089.00</WorldPosition>
+            <RunwayNumberFP>35</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>UHNM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="UHNB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N52° 22' 48.62",E140° 26' 56.31",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>UHNB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="UHNN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N53° 9' 17.61",E140° 39' 0.64",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>UHNN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="UHNH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N52° 58' 32.27",E138° 49' 5.93",+000053.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>UHNH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>VIDF to VNJL</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>VIDF</DepartureID>
+        <DepartureLLA>N29° 35' 21.04",E80° 14' 34.79",+004917.00</DepartureLLA>
+        <DestinationID>VNJL</DestinationID>
+        <DestinationLLA>N29° 16' 28.03",E82° 11' 36.15",+007792.00</DestinationLLA>
+        <Descr>VIDF, VNJL</Descr>
+        <DepartureName>Pithorgarh</DepartureName>
+        <DestinationName>Jumla</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="VIDF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N29° 35' 37.01",E80° 14' 20.89",+004917.00</WorldPosition>
+            <RunwayNumberFP>32</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>VIDF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VNDL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N29° 40' 6.93",E80° 32' 53.31",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VNDL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VNBT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N29° 27' 48.86",E80° 32' 56.61",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VNBT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VNDT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N29° 15' 43.49",E80° 56' 9.86",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VNDT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VNSR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N29° 14' 13.36",E81° 12' 55.74",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VNSR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VNBG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N29° 32' 17.95",E81° 11' 0.28",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VNBG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VNBR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N29° 30' 10.09",E81° 40' 6.06",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VNBR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VNJU">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N29° 31' 16.25",E82° 8' 48.03",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VNJU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VNJL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N29° 16' 28.03",E82° 11' 36.15",+007792.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VNJL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

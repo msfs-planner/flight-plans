@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>WIMA to WIME</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>WIMA</DepartureID>
+        <DepartureLLA>N5° 13' 22.53",E96° 56' 35.38",+000090.00</DepartureLLA>
+        <DestinationID>WIME</DestinationID>
+        <DestinationLLA>N1° 24' 0.45",E99° 25' 49.51",+000941.00</DestinationLLA>
+        <Descr>WIMA, WIME</Descr>
+        <DepartureName>Malikus Saleh</DepartureName>
+        <DestinationName>Aek Godang</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="WIMA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N5° 13' 36.21",E96° 57' 1.03",+000090.00</WorldPosition>
+            <RunwayNumberFP>6</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>WIMA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WITL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N5° 4' 9.94",E97° 15' 32.88",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WITL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WITK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N4° 43' 16.11",E96° 51' 7.03",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WITK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WACQ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N3° 56' 46.07",E97° 21' 32.49",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WACQ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WASY">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N3° 44' 3.24",E96° 47' 28.89",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WASY</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WITA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N3° 10' 8.62",E97° 17' 18.18",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WITA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAGO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N2° 16' 12.86",E97° 58' 0.52",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAGO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WAPW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N2° 36' 5.35",E98° 57' 46.65",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WAPW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WIMN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N2° 15' 34.59",E98° 59' 16.85",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WIMN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WIMS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N1° 33' 26.85",E98° 53' 11.97",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WIMS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WIME">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N1° 24' 0.45",E99° 25' 49.51",+000941.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WIME</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

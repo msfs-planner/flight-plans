@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>VMMC to ZGSZ</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>VMMC</DepartureID>
+        <DepartureLLA>N22° 9' 37.40",E113° 35' 14.48",+000020.00</DepartureLLA>
+        <DestinationID>ZGSZ</DestinationID>
+        <DestinationLLA>N22° 38' 21.16",E113° 48' 6.85",+000013.00</DestinationLLA>
+        <Descr>VMMC, ZGSZ</Descr>
+        <DepartureName>Macao Intl</DepartureName>
+        <DestinationName>Baoan</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="VMMC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N22° 8' 57.84",E113° 35' 29.10",+000020.00</WorldPosition>
+            <RunwayNumberFP>16</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>VMMC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ZGUH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N22° 15' 7.27",E113° 35' 25.03",+002053.10</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ZGUH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VHHH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N22° 18' 32.26",E113° 54' 52.60",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VHHH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VHSK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N22° 26' 11.93",E114° 4' 48.03",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VHSK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ZXIB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N22° 33' 31.66",E113° 55' 31.91",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ZXIB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="ZGSZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N22° 38' 21.16",E113° 48' 6.85",+000013.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>ZGSZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

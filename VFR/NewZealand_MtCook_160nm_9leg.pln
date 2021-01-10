@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>NZLX to NZFJ</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>NZLX</DepartureID>
+        <DepartureLLA>S45° 12' 58.15",E169° 22' 26.98",+000750.00</DepartureLLA>
+        <DestinationID>NZFJ</DestinationID>
+        <DestinationLLA>S43° 21' 43.88",E170° 7' 56.20",+000291.00</DestinationLLA>
+        <Descr>NZLX, NZFJ</Descr>
+        <DepartureName>Alexandra</DepartureName>
+        <DestinationName>Franz Josef Aerodrome</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="NZLX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S45° 12' 41.56",E169° 22' 14.95",+000750.00</WorldPosition>
+            <RunwayNumberFP>32</RunwayNumberFP>
+            <RunwayDesignatorFP>LEFT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>NZLX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZCS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S45° 2' 47.93",E169° 10' 10.73",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZCS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZWF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S44° 43' 20.66",E169° 14' 51.93",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZWF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZWC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S44° 26' 17.79",E169° 23' 23.45",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZWC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZOA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S44° 29' 10.07",E169° 59' 6.99",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZOA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZUK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S44° 14' 8.06",E170° 7' 11.54",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZUK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZTL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S44° 0' 16.59",E170° 26' 35.43",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZTL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZGT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S43° 54' 38.76",E170° 7' 43.29",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZGT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZMC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S43° 45' 58.80",E170° 8' 5.38",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZMC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NZFJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S43° 21' 43.88",E170° 7' 56.20",+000291.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>NZFJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

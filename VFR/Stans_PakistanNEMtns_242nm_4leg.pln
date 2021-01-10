@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>OPCL to VATH</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>OPCL</DepartureID>
+        <DepartureLLA>N35° 25' 32.70",E74° 5' 38.71",+003756.00</DepartureLLA>
+        <DestinationID>VATH</DestinationID>
+        <DestinationLLA>N35° 23' 42.17",E77° 55' 44.62",+016668.00</DestinationLLA>
+        <Descr>OPCL, VATH</Descr>
+        <DepartureName>Chilas</DepartureName>
+        <DestinationName>Daulat Beg Oldi Advanced Landing Ground</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="OPCL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 25' 37.62",E74° 5' 10.31",+003756.00</WorldPosition>
+            <RunwayNumberFP>28</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>OPCL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="OPSD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 20' 11.15",E75° 32' 6.18",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>OPSD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VIKL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 31' 27.51",E76° 9' 20.36",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VIKL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VITE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 39' 9.10",E77° 22' 32.58",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VITE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="VATH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N35° 23' 42.17",E77° 55' 44.62",+016668.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>VATH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

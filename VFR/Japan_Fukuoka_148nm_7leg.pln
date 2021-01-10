@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>RJOF to RJDA</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>RJOF</DepartureID>
+        <DepartureLLA>N34° 2' 16.86",E131° 32' 13.48",+000007.00</DepartureLLA>
+        <DestinationID>RJDA</DestinationID>
+        <DestinationLLA>N32° 28' 56.97",E130° 9' 31.84",+000330.00</DestinationLLA>
+        <Descr>RJOF, RJDA</Descr>
+        <DepartureName>Hofu Aero</DepartureName>
+        <DestinationName>Amakusa</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="RJOF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 2' 3.82",E131° 32' 47.49",+000007.00</WorldPosition>
+            <RunwayNumberFP>12</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>RJOF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RJOZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 2' 49.78",E131° 3' 9.02",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RJOZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RJFA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 52' 57.19",E130° 39' 15.85",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RJFA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RJFF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 35' 9.36",E130° 27' 2.46",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RJFF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RJDM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 19' 31.43",E130° 24' 49.36",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RJDM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RJFS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N33° 8' 59.02",E130° 18' 7.81",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RJFS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RJFU">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 54' 59.35",E129° 54' 43.92",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RJFU</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RJDA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N32° 28' 56.97",E130° 9' 31.84",+000330.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RJDA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

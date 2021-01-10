@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>UAKR to UTFF</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>UAKR</DepartureID>
+        <DepartureLLA>N41° 28' 33.43",E71° 43' 18.10",+004227.00</DepartureLLA>
+        <DestinationID>UTFF</DestinationID>
+        <DestinationLLA>N40° 21' 30.10",E71° 44' 40.91",+001988.00</DestinationLLA>
+        <Descr>UAKR, UTFF</Descr>
+        <DepartureName>Kerben Airport</DepartureName>
+        <DestinationName>Fergana</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="UAKR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 28' 52.76",E71° 43' 45.40",+004227.00</WorldPosition>
+            <RunwayNumberFP>4</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>UAKR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="UTUC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N41° 4' 42.99",E72° 1' 43.08",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>UTUC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="UAMB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 58' 32.49",E72° 37' 45.08",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>UAMB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="UAJA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 56' 41.19",E72° 58' 39.25",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>UAJA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="UCFO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 36' 34.29",E72° 47' 32.11",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>UCFO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="UTMA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 29' 0.59",E72° 16' 51.21",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>UTMA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="UAIR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 16' 16.18",E72° 2' 56.63",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>UAIR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="UTFF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N40° 21' 30.10",E71° 44' 40.91",+001988.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>UTFF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

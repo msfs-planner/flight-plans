@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>RJEC to RJSB</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>RJEC</DepartureID>
+        <DepartureLLA>N43° 39' 39.21",E142° 27' 14.88",+000690.00</DepartureLLA>
+        <DestinationID>RJSB</DestinationID>
+        <DestinationLLA>N42° 32' 12.69",E141° 15' 17.63",+000046.00</DestinationLLA>
+        <Descr>RJEC, RJSB</Descr>
+        <DepartureName>Asahikawa</DepartureName>
+        <DestinationName>Shiraoi Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="RJEC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 40' 14.64",E142° 26' 51.25",+000690.00</WorldPosition>
+            <RunwayNumberFP>34</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>RJEC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RJCA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 47' 39.32",E142° 21' 54.73",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RJCA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RJTI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 32' 57.72",E141° 53' 38.06",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RJTI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RJBI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 23' 23.67",E141° 51' 31.94",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RJBI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RJCO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N43° 7' 2.69",E141° 22' 52.69",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RJCO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RJCC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 47' 7.83",E141° 40' 45.72",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RJCC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RJSB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N42° 32' 12.69",E141° 15' 17.63",+000046.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RJSB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

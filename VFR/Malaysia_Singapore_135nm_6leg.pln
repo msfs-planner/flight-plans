@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>WSAP to WIDN</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>WSAP</DepartureID>
+        <DepartureLLA>N1° 20' 41.72",E103° 54' 10.58",+000054.00</DepartureLLA>
+        <DestinationID>WIDN</DestinationID>
+        <DestinationLLA>N0° 55' 26.73",E104° 32' 0.52",+000058.00</DestinationLLA>
+        <Descr>WSAP, WIDN</Descr>
+        <DepartureName>Paya Lebar</DepartureName>
+        <DestinationName>Kijang</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="WSAP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N1° 21' 37.44",E103° 54' 34.26",+000054.00</WorldPosition>
+            <RunwayNumberFP>2</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>WSAP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WMKJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N1° 38' 21.67",E103° 40' 11.53",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WMKJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WMSK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N1° 25' 51.63",E103° 37' 8.49",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WMSK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WIDT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N1° 3' 10.45",E103° 23' 29.74",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WIDT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WSSI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N1° 12' 19.69",E103° 43' 9.23",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WSSI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WIDD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N1° 7' 15.45",E104° 7' 7.67",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WIDD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WIDN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N0° 55' 26.73",E104° 32' 0.52",+000058.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>WIDN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>RJOO to RJOA</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>RJOO</DepartureID>
+        <DepartureLLA>N34° 46' 20.60",E135° 27' 5.92",+000040.00</DepartureLLA>
+        <DestinationID>RJOA</DestinationID>
+        <DestinationLLA>N34° 26' 9.84",E132° 55' 9.85",+001069.00</DestinationLLA>
+        <Descr>RJOO, RJOA</Descr>
+        <DepartureName>Osaka Intl</DepartureName>
+        <DestinationName>Hiroshima</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="RJOO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 47' 8.32",E135° 26' 16.65",+000040.00</WorldPosition>
+            <RunwayNumberFP>32</RunwayNumberFP>
+            <RunwayDesignatorFP>LEFT</RunwayDesignatorFP>
+            <ICAO>
+                <ICAOIdent>RJOO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RJBB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 26' 1.01",E135° 14' 0.89",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RJBB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RJOS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 7' 56.13",E134° 36' 33.37",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RJOS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RJOT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 12' 50.57",E134° 0' 56.80",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RJOT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RJBK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 35' 27.01",E133° 55' 59.95",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RJBK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RJKS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 28' 33.51",E133° 29' 20.50",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RJKS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RJOA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N34° 26' 9.84",E132° 55' 9.85",+001069.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RJOA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

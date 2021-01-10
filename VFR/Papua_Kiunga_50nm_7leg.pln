@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>AYKP to AYLN</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>AYKP</DepartureID>
+        <DepartureLLA>S4° 52' 52.50",E141° 31' 34.92",+002204.00</DepartureLLA>
+        <DestinationID>AYLN</DestinationID>
+        <DestinationLLA>S5° 28' 28.68",E141° 58' 4.48",+004132.00</DestinationLLA>
+        <Descr>AYKP, AYLN</Descr>
+        <DepartureName>Gubil Airstrip</DepartureName>
+        <DestinationName>Kiunga Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="AYKP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 52' 59.85",E141° 31' 30.86",+002204.00</WorldPosition>
+            <RunwayNumberFP>21</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>AYKP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MPX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S4° 54' 10.06",E141° 37' 14.29",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MPX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="WP1">
+            <ATCWaypointType>User</ATCWaypointType>
+            <WorldPosition>S5° 2' 22.73",E141° 41' 2.20",+002500.00</WorldPosition>
+        </ATCWaypoint>
+        <ATCWaypoint id="TLF">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S5° 7' 33.57",E141° 38' 30.75",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>TLF</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="AYFE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S5° 12' 28.59",E141° 41' 55.21",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>AYFE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="AYSO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S5° 18' 54.21",E141° 45' 7.53",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>AYSO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="AYSI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S5° 24' 44.20",E141° 49' 29.66",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>AYSI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="AYLN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S5° 28' 28.68",E141° 58' 4.48",+004132.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>AYLN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

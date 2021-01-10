@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>SCCW to SCPQ</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>SCCW</DepartureID>
+        <DepartureLLA>S43° 10' 14.45",W72° 26' 9.26",+000153.00</DepartureLLA>
+        <DestinationID>SCPQ</DestinationID>
+        <DestinationLLA>S42° 20' 25.54",W73° 42' 56.38",+000510.00</DestinationLLA>
+        <Descr>SCCW, SCPQ</Descr>
+        <DepartureName>Chaiten Airport</DepartureName>
+        <DestinationName>Mocopulli</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="SCCW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S43° 10' 21.39",W72° 26' 4.15",+000153.00</WorldPosition>
+            <RunwayNumberFP>14</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>SCCW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCEA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S43° 0' 21.62",W72° 28' 41.64",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCEA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCTN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S42° 55' 56.56",W72° 41' 49.77",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCTN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCCX">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S42° 50' 44.83",W72° 47' 37.35",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCCX</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCIK">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S42° 44' 38.92",W72° 58' 0.17",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCIK</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCIA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S42° 36' 18.15",W73° 12' 33.50",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCIA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCQE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S42° 27' 56.84",W73° 20' 2.43",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCQE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCCD">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S42° 19' 28.37",W73° 23' 19.36",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCCD</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCAH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S42° 27' 1.18",W73° 31' 30.72",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCAH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCCJ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S42° 36' 14.15",W73° 40' 12.30",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCCJ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCST">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S42° 29' 28.13",W73° 46' 27.26",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCST</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCPQ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S42° 20' 25.54",W73° 42' 56.38",+000510.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCPQ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

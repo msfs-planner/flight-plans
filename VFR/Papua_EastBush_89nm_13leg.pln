@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>AYNA to MPG</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>AYNA</DepartureID>
+        <DepartureLLA>S5° 50' 17.58",E146° 27' 16.74",+005780.00</DepartureLLA>
+        <DestinationID>MPG</DestinationID>
+        <DestinationLLA>S6° 31' 56.79",E147° 39' 5.20",+002533.00</DestinationLLA>
+        <Descr>AYNA, MPG</Descr>
+        <DepartureName>Nankina Airport</DepartureName>
+        <DestinationName>Makini Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="AYNA">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S5° 50' 11.43",E146° 27' 11.69",+005780.00</WorldPosition>
+            <RunwayNumberFP>32</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>AYNA</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="BCP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S5° 51' 48.49",E146° 29' 32.75",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>BCP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="AYTP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S5° 57' 18.94",E146° 33' 45.60",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>AYTP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="AYIS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S5° 58' 41.26",E146° 37' 11.82",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>AYIS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="AYUT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S6° 0' 16.07",E146° 43' 14.42",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>AYUT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SMH">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S6° 4' 29.65",E146° 48' 40.55",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SMH</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="AYYW">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S6° 7' 59.90",E146° 50' 36.73",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>AYYW</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="AYYE">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S6° 5' 22.51",E147° 0' 43.67",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>AYYE</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="DER">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S6° 8' 41.14",E147° 6' 24.96",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>DER</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KBM">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S6° 9' 18.63",E147° 11' 30.71",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>KBM</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="IDN">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S6° 13' 36.28",E147° 14' 37.81",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>IDN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LNC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S6° 23' 4.24",E147° 22' 7.59",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LNC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="PDI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S6° 26' 42.60",E147° 30' 57.79",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>PDI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="MPG">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S6° 31' 56.79",E147° 39' 5.20",+002533.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>MPG</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

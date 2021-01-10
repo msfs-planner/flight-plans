@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>SCTP to SCII</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>SCTP</DepartureID>
+        <DepartureLLA>S48° 13' 49.77",W73° 17' 48.42",+000197.00</DepartureLLA>
+        <DestinationID>SCII</DestinationID>
+        <DestinationLLA>S46° 17' 38.07",W71° 56' 58.89",+000820.00</DestinationLLA>
+        <Descr>SCTP, SCII</Descr>
+        <DepartureName>Río Pascua Airport</DepartureName>
+        <DestinationName>Puerto Ingeniero Ibanez Airport</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="SCTP">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S48° 13' 42.81",W73° 17' 59.82",+000197.00</WorldPosition>
+            <RunwayNumberFP>30</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>SCTP</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCRB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S47° 59' 25.24",W73° 8' 32.79",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCRB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCCR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S47° 47' 12.69",W73° 31' 57.50",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCCR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCVS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S47° 40' 45.56",W73° 4' 15.21",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCVS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCND">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S47° 28' 14.87",W72° 55' 48.80",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCND</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCHR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S47° 14' 36.74",W72° 35' 16.16",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCHR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCBR">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S47° 23' 18.30",W72° 19' 35.73",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCBR</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCEB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S47° 9' 59.87",W71° 59' 34.46",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCEB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCAL">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S47° 6' 55.67",W72° 28' 45.10",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCAL</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCLO">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S46° 45' 56.09",W72° 49' 6.15",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCLO</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCSZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S46° 35' 31.57",W72° 35' 11.19",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCSZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCFC">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S46° 32' 54.96",W72° 13' 11.40",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCFC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SCII">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>S46° 17' 38.07",W71° 56' 58.89",+000820.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>SCII</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>RK0D to RKSI</Title>
+        <FPType>VFR</FPType>
+        <RouteType>Direct</RouteType>
+        <CruisingAlt>2500</CruisingAlt>
+        <DepartureID>RK0D</DepartureID>
+        <DepartureLLA>N38° 9' 0.43",E127° 18' 42.28",+000522.00</DepartureLLA>
+        <DestinationID>RKSI</DestinationID>
+        <DestinationLLA>N37° 28' 8.85",E126° 27' 1.75",+000023.00</DestinationLLA>
+        <Descr>RK0D, RKSI</Descr>
+        <DepartureName>R 237</DepartureName>
+        <DestinationName>Incheon Intl</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>11</AppVersionMajor>
+            <AppVersionBuild>282174</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="RK0D">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 9' 17.09",E127° 18' 50.22",+000522.00</WorldPosition>
+            <RunwayNumberFP>3</RunwayNumberFP>
+            <ICAO>
+                <ICAOIdent>RK0D</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RK0Y">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 14' 56.00",E127° 22' 42.36",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RK0Y</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RK0Z">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 12' 59.23",E127° 39' 23.10",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RK0Z</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RK0F">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 8' 20.84",E128° 0' 31.37",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RK0F</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RK0Q">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 55' 46.09",E127° 45' 26.83",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RK0Q</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RK0E">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 4' 32.54",E127° 31' 16.41",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RK0E</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RK0C">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 1' 35.38",E127° 22' 1.88",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RK0C</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RK0W">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N38° 1' 44.51",E127° 8' 29.46",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RK0W</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RK0N">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 54' 33.84",E127° 0' 30.08",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RK0N</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RK0O">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 38' 49.18",E127° 9' 4.56",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RK0O</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RKSS">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 33' 31.34",E126° 47' 25.73",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RKSS</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RK0K">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 42' 54.78",E126° 33' 36.93",+002500.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RK0K</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="RKSI">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N37° 28' 8.85",E126° 27' 1.75",+000023.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>RKSI</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
